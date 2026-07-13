@@ -1,0 +1,94 @@
+# Bibliography — *From Data Deluge to Data Strategy*
+
+Sources grounding and updating the SXSW 2024 talk "From Data Deluge to Data Strategy — Part 1: Data Deluge." All DOIs below resolve via CrossRef/DataCite; none carry a retraction or withdrawal flag. Trade-press, legal, and government sources are cited with dated URLs and labelled by type. Peer-reviewed articles and scholarly books are unlabelled unless the type is not obvious.
+
+## A. Datafication and the political economy of streaming
+
+1. van Dijck, J. (2014). Datafication, dataism and dataveillance: Big Data between scientific paradigm and ideology. *Surveillance & Society* 12(2). https://doi.org/10.24908/ss.v12i2.4776
+2. Nieborg, D. B. & Poell, T. (2018). The platformization of cultural production: Theorizing the contingent cultural commodity. *New Media & Society* 20(11). https://doi.org/10.1177/1461444818769694
+3. Morris, J. W. (2015). Curation by code: Infomediaries and the data mining of taste. *European Journal of Cultural Studies* 18(4–5). https://doi.org/10.1177/1367549415577387
+4. Prey, R. (2017). Nothing personal: algorithmic individuation on music streaming platforms. *Media, Culture & Society* 40(7). https://doi.org/10.1177/0163443717745147
+5. Prey, R., Esteve Del Valle, M. & Zwerwer, L. (2020). Platformization and the political economy of playlists: Locating curatorial power. *Social Media + Society* 6(2). https://doi.org/10.1177/2056305120933291
+6. Bonini, T. & Gandini, A. (2019). "First Week Is Editorial, Second Week Is Algorithmic": Platform gatekeepers and the platformization of music curation. *Social Media + Society* 5(4). https://doi.org/10.1177/2056305119880006
+7. Seaver, N. (2018). Captivating algorithms: Recommender systems as traps. *Journal of Material Culture* 24(4). https://doi.org/10.1177/1359183518820366
+8. Seaver, N. (2022). *Computing Taste: Algorithms and the Makers of Music Recommendation*. University of Chicago Press (book). https://doi.org/10.7208/chicago/9780226822969.001.0001
+9. Drott, E. (2018). Music as a technology of surveillance. *Journal of the Society for American Music* 12(3). https://doi.org/10.1017/s1752196318000196
+10. Drott, E. (2024). *Streaming Music, Streaming Capital*. Duke University Press (book). https://doi.org/10.1515/9781478027874
+11. Beuscart, J.-S., Coavoux, S. & Maillard, S. (2019). Music recommendation algorithms and the listener's autonomy. *Réseaux* 213. https://doi.org/10.3917/res.213.0017
+12. Hesmondhalgh, D. (2020). Is music streaming bad for musicians? Problems of evidence and argument. *New Media & Society* 23(12). https://doi.org/10.1177/1461444820953541
+13. Hesmondhalgh, D., Osanloo, R. & others (2021). Streaming's effects on music culture: Old anxieties and new simplifications. *Cultural Sociology* 15(4). https://doi.org/10.1177/17499755211019974
+14. Hesmondhalgh, D. (2025). Subjectivity, culture and the datafication of music. *Convergence* (online first). https://doi.org/10.1177/13548565251336465
+15. Maasø, A. & Spilker, H. S. (2022). The streaming paradox: Untangling the hybrid gatekeeping mechanisms of music streaming. *Popular Music and Society* 45(3). https://doi.org/10.1080/03007766.2022.2026923
+16. Eriksson, M., Fleischer, R., Johansson, A., Snickars, P. & Vonderau, P. (2019). *Spotify Teardown: Inside the Black Box of Streaming Music*. MIT Press (book). https://doi.org/10.7551/mitpress/10932.001.0001
+17. Page, W. (2021). *Tarzan Economics: Eight Principles for Pivoting through Disruption*. Simon & Schuster (trade book). https://www.simonandschuster.co.in/books/Tarzan-Economics/Will-Page/9781471190926
+
+## B. Recommender bias, popularity, and feedback loops
+
+18. Chaney, A. J. B., Stewart, B. M. & Engelhardt, B. E. (2018). How algorithmic confounding in recommendation systems increases homogeneity and decreases utility. *RecSys '18*. https://doi.org/10.1145/3240323.3240370
+19. Mansoury, M., Abdollahpouri, H., Pechenizkiy, M., Mobasher, B. & Burke, R. (2020). Feedback loop and bias amplification in recommender systems. *CIKM '20*. https://doi.org/10.1145/3340531.3412152
+20. Chen, J., Dong, H., Wang, X., Feng, F., Wang, M. & He, X. (2023). Bias and debias in recommender system: A survey and future directions. *ACM Transactions on Information Systems* 41(3). https://doi.org/10.1145/3564284
+21. Celma, Ò. & Cano, P. (2008). From hits to niches? or how popular artists can bias music recommendation and discovery. *2nd KDD Workshop on Large-Scale Recommender Systems (NETFLIX)*. https://doi.org/10.1145/1722149.1722154
+22. Celma, Ò. (2010). *Music Recommendation and Discovery: The Long Tail, Long Fail, and Long Play in the Digital Music Space*. Springer (book). https://doi.org/10.1007/978-3-642-13287-2
+23. Datta, H., Knox, G. & Bronnenberg, B. J. (2018). Changing their tune: How consumers' adoption of online streaming affects music consumption and discovery. *Marketing Science* 37(1). https://doi.org/10.1287/mksc.2017.1051
+24. Anderson, A., Maystre, L., Anderson, I., Mehrotra, R. & Lalmas, M. (2020). Algorithmic effects on the diversity of consumption on Spotify. *The Web Conference (WWW '20)*. https://doi.org/10.1145/3366423.3380281
+25. Villermet, Q., Poiroux, J., Moussallam, M., Louail, T. & Roth, C. (2021). Follow the guides: disentangling human and algorithmic curation in online music consumption. *RecSys '21*. https://doi.org/10.1145/3460231.3474269
+26. Schedl, M., Zamani, H., Chen, C.-W., Deldjoo, Y. & Elahi, M. (2018). Current challenges and visions in music recommender systems research. *International Journal of Multimedia Information Retrieval* 7. https://doi.org/10.1007/s13735-018-0154-2
+27. Bauer, C. & Schedl, M. (2019). Global and country-specific mainstreaminess measures: Definitions, analysis, and usage for improving personalized music recommendation systems. *PLOS ONE* 14(6). https://doi.org/10.1371/journal.pone.0217389
+28. Ferraro, A., Serra, X. & Bauer, C. (2021). Break the loop: Gender imbalance in music recommenders. *CHIIR '21*. https://doi.org/10.1145/3406522.3446033
+29. Melchiorre, A. B., Rekabsaz, N., Parada-Cabaleiro, E., Brandl, S., Lesota, O. & Schedl, M. (2021). Investigating gender fairness of recommendation algorithms in the music domain. *Information Processing & Management* 58(5). https://doi.org/10.1016/j.ipm.2021.102666
+30. Deldjoo, Y., Jannach, D., Bellogín, A., Difonzo, A. & Zanzonelli, D. (2023). Fairness in recommender systems: research landscape and future directions. *User Modeling and User-Adapted Interaction* 34. https://doi.org/10.1007/s11257-023-09364-z
+31. Porcaro, L., Gómez, E. & Castillo, C. (2024). Assessing the impact of music recommendation diversity on listeners: A longitudinal study. *ACM Transactions on Recommender Systems* 2(1). https://doi.org/10.1145/3608487
+32. Nguyen, C. T. (2018). Echo chambers and epistemic bubbles. *Episteme* 17(2). https://doi.org/10.1017/epi.2018.32
+
+## C. Fandom, attention, and the measurement problem
+
+33. Jenkins, H. (2006). *Convergence Culture: Where Old and New Media Collide*. NYU Press (book). https://nyupress.org/9780814742952/convergence-culture/
+34. Baym, N. K. (2015). Connect with your audience! The relational labor of connection. *The Communication Review* 18(1). https://doi.org/10.1080/10714421.2015.996401
+35. Baym, N. K. (2018). *Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection*. NYU Press (book). https://doi.org/10.18574/nyu/9781479896165.001.0001
+36. Wu, T. (2016). *The Attention Merchants: The Epic Scramble to Get Inside Our Heads*. Alfred A. Knopf (trade book). https://scholarship.law.columbia.edu/books/64/
+37. Couldry, N. & Mejias, U. A. (2018). Data colonialism: Rethinking Big Data's relation to the contemporary subject. *Television & New Media* 20(4). https://doi.org/10.1177/1527476418796632
+38. Couldry, N. & Mejias, U. A. (2019). *The Costs of Connection: How Data Is Colonizing Human Life and Appropriating It for Capitalism*. Stanford University Press (book). https://doi.org/10.1515/9781503609754
+39. Terranova, T. (2000). Free labor: Producing culture for the digital economy. *Social Text* 18(2). https://doi.org/10.1215/01642472-18-2_63-33
+40. Papacharissi, Z. (2014). *Affective Publics: Sentiment, Technology, and Politics*. Oxford University Press (book). https://doi.org/10.1093/acprof:oso/9780199999736.001.0001
+41. Chung, S. & Cho, H. (2017). Fostering parasocial relationships with celebrities on social media: Implications for celebrity endorsement. *Psychology & Marketing* 34(4). https://doi.org/10.1002/mar.21001
+42. Scharlach, R. & Hallinan, B. (2023). The value affordances of social media engagement features. *Journal of Computer-Mediated Communication* 28(6). https://doi.org/10.1093/jcmc/zmad040
+43. Trunfio, M. & Rossi, S. (2021). Conceptualising and measuring social media engagement: A systematic literature review. *Italian Journal of Marketing* 2021. https://doi.org/10.1007/s43039-021-00035-8
+
+## D. AI-ready music data formats and provenance
+
+44. Hennequin, R., Khlif, A., Voituret, F. & Moussallam, M. (2020). Spleeter: a fast and efficient music source separation tool with pre-trained models. *Journal of Open Source Software* 5(50). https://doi.org/10.21105/joss.02154
+45. Rouard, S., Massa, F. & Défossez, A. (2023). Hybrid transformers for music source separation. *ICASSP 2023*. https://doi.org/10.1109/icassp49357.2023.10096956
+46. Fabbro, G., Uhlich, S., Lai, C.-H. et al. (2024). The Sound Demixing Challenge 2023 — Music Demixing Track. *Transactions of the International Society for Music Information Retrieval* 7(1). https://doi.org/10.5334/tismir.171
+47. Zeng, M., Tan, X., Wang, R., Ju, Z., Qin, T. & Liu, T.-Y. (2021). MusicBERT: Symbolic music understanding with large-scale pre-training. *Findings of ACL 2021*. https://doi.org/10.18653/v1/2021.findings-acl.70
+48. Hsiao, W.-Y., Liu, J.-Y., Yeh, Y.-C. & Yang, Y.-H. (2021). Compound Word Transformer: Learning to compose full-song music over dynamic directed hypergraphs. *AAAI 2021* 35(1). https://doi.org/10.1609/aaai.v35i1.16091
+49. San Roman, R., Fernandez, P., Elsahar, H., Défossez, A., Furon, T. & Tran, T. (2024). Proactive detection of voice cloning with localized watermarking (AudioSeal). *arXiv preprint* (later ICML 2024). https://doi.org/10.48550/arxiv.2401.17264
+50. Liu, H., Guo, M., Jiang, Z., Wang, L. & Gong, N. Z. (2024). AudioMarkBench: Benchmarking robustness of audio watermarking. *arXiv preprint* (NeurIPS 2024 Datasets & Benchmarks). https://doi.org/10.48550/arxiv.2406.06979
+51. Chen, W. et al. (2024). Watermarking training data of music generation models. *arXiv preprint*. https://doi.org/10.48550/arxiv.2412.08549
+52. (2025). Fraud-proof revenue division on subscription platforms. *arXiv preprint*. https://doi.org/10.48550/arxiv.2511.04465
+
+## E. Post-2024 industry, legal, and regulatory developments (trade press, court, and government sources)
+
+53. Universal Music Group (2024). *An open letter to the artist and songwriter community — why we must call time out on TikTok*. Reported in Variety (30 Jan 2024). https://variety.com/2024/digital/news/universal-music-group-pulling-songs-tiktok-licensing-deal-1235892437/ (trade press / corporate letter)
+54. Digital Music News (30 Jan 2024). *Universal Music Publishing Group terminates its TikTok licensing agreement*. https://www.digitalmusicnews.com/2024/01/30/universal-music-publishing-group-terminates-tiktok-licensing-agreement/ (trade press)
+55. Harvard Business School Working Knowledge. *What happened when TikTok songs went silent for three months*. https://www.library.hbs.edu/working-knowledge/what-happened-when-tiktok-songs-went-silent-for-three-months (research summary)
+56. Variety (2 May 2024). *TikTok and Universal Music Group settle royalty dispute with new licensing agreement*. https://variety.com/2024/music/news/tiktok-universal-music-group-settle-royalty-dispute-licensing-agreement-1235987271/ (trade press)
+57. Protecting Americans from Foreign Adversary Controlled Applications Act (PAFACA), enacted 24 April 2024. Overview: https://en.wikipedia.org/wiki/Protecting_Americans_from_Foreign_Adversary_Controlled_Applications_Act (legislation summary)
+58. Holland & Knight (Jan 2025). *U.S. Supreme Court upholds TikTok "sale or ban" law* (TikTok Inc. v. Garland). https://www.hklaw.com/en/insights/publications/2025/01/us-supreme-court-upholds-tiktok-sale-or-ban-law (legal analysis)
+59. Congressional Research Service, LSB11261. *TikTok, ByteDance, and PAFACA*. https://www.congress.gov/crs-product/LSB11261 (government)
+60. The White House (Sept 2025). *Saving TikTok while protecting national security* (executive action). https://www.whitehouse.gov/presidential-actions/2025/09/saving-tiktok-while-protecting-national-security/ (government); Federal Register notice, 30 Sept 2025: https://www.federalregister.gov/documents/2025/09/30/2025-19139/saving-tiktok-while-protecting-national-security
+61. Music Business Worldwide. *Confirmed: Tracks on Spotify must hit 1,000 plays to earn royalties*. https://www.musicbusinessworldwide.com/confirmed-next-year-tracks-on-spotify-1000-plays/ (trade press)
+62. iMusician (April 2024). *Spotify royalty model changes in effect since April 2024*. https://imusician.pro/en/resources/blog/spotify-royalty-model-changes-in-effect-since-april-2024 (industry explainer); Spotify for Artists: https://support.spotify.com/us/artists/article/track-monetization-eligibility/ (corporate documentation)
+63. Music Week. *Goldman Sachs "Music in the Air" 2023: monetising superfans, price rises, streaming remuneration, AI*. https://www.musicweek.com/labels/read/goldman-sachs-music-in-the-air-2023-monetising-superfans-price-rises-streaming-remuneration-ai/088139 (trade press / analyst report summary)
+64. Music Business Worldwide (2023). *15% of the general population of the US are "superfans" — here's what that means for the music business* (Luminate). https://www.musicbusinessworldwide.com/15-of-the-general-population-of-the-us-are-superfans-heres-what-that-means-for-the-music-business1/ (trade press / market research)
+65. Music Week. *Music in the Air 2024: live, publishing and superfans boost Goldman Sachs global growth forecast*. https://www.musicweek.com/labels/read/music-in-the-air-2024-live-publishing-and-superfans-boost-goldman-sachs-global-growth-forecast/089723 (trade press / analyst report summary); Forbes (Sept 2025): https://www.forbes.com/sites/korihale/2025/09/12/goldman-sachs-turns-up-superfans--emerging-markets-to-reach-200-billion-in-music-revenues/ ; MBW (Jan 2026): https://www.musicbusinessworldwide.com/emerging-markets-superfans-and-price-rises-7-takeaways-from-goldman-sachs-new-music-in-the-air-report/
+66. Music Ally (Feb 2025). *Multiple reports offer new details on Spotify superfan tier*. https://musically.com/2025/02/17/multiple-reports-offer-new-details-on-spotify-superfan-tier/ (trade press); MBW: https://www.musicbusinessworldwide.com/spotify-to-launch-music-pro-service-with-superfan-perks-like-early-access-tickets-and-ai-remix-tool-for-up-to-5-99-more-per-month-report/ ; Fortune (Feb 2025): https://fortune.com/2025/02/18/spotify-music-pro/
+67. CelebrityAccess (4 May 2026). *The superfan subscription bubble has burst — what will replace it?* https://celebrityaccess.com/2026/05/04/superfan-subscription-bubble-has-burst-what-will-replace-it (trade press / opinion)
+68. RIAA (June 2024). *Record companies bring landmark cases for responsible AI against Suno and Udio*. https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/ (industry body / litigation announcement)
+69. McKool Smith (Nov 2025). *AI litigation update* (Suno/Udio status). https://www.mckoolsmith.com/newsroom-ailitigation-45 (legal analysis); AI music copyright cases timeline: https://dynamoi.com/learn/ai-music-distribution/ai-music-copyright-cases-timeline
+70. Deezer Newsroom (Sept 2025). *28% of delivered tracks fully AI-generated*. https://newsroom-deezer.com/2025/09/28-fully-ai-generated-music/ (corporate); (April 2026) *AI-generated tracks represent 44% of new uploaded music*: https://newsroom-deezer.com/2026/04/ai-generated-tracks-represent-44-of-new-uploaded-music/ ; TechCrunch (April 2026): https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/
+71. Deezer Community (June 2025). *Deezer rolls out the world's first AI music tagging system*. https://en.deezercommunity.com/product-updates/deezer-just-rolled-out-the-world-s-first-ai-music-tagging-system-80852 (corporate); AI-labelling feature: https://www.deezer.com/explore/en-us/features/ai-labelling/
+72. Euronews (Sept 2025). *French streamer Deezer reveals that 28% of music uploaded to platform is AI-generated* (incl. "Velvet Sundown"). https://www.euronews.com/culture/2025/09/15/french-streamer-deezer-reveals-that-28-per-cent-of-music-uploaded-to-platform-is-ai-genera (news)
+73. U.S. Department of Justice, SDNY (4 Sept 2024). *North Carolina musician charged with music streaming fraud aided by artificial intelligence* (United States v. Michael Smith). https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence (government / court); guilty plea (Mar 2026): https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0 ; Rolling Stone: https://www.rollingstone.com/music/music-features/streaming-fraud-fake-streams-mike-smith-1235500686/
+74. European Commission. *Regulatory framework for AI (AI Act)*. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai (government); Skadden (Aug 2025) on GPAI obligations: https://www.skadden.com/insights/publications/2025/08/eus-general-purpose-ai-obligations
+75. European Commission. *GPAI Code of Practice*. https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai (government); WilmerHale on the training-data disclosure template: https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/european-commission-releases-mandatory-template-for-public-disclosure-of-ai-training-data ; Clifford Chance (Oct 2025): https://www.cliffordchance.com/insights/resources/blogs/ip-insights/2025/10/copyright-compliance-under-the-eu-ai-act-for-gpai-model-providers.html
+76. C2PA. *Content Credentials: C2PA Technical Specification, Explainer 2.2* (April 2025). https://spec.c2pa.org/specifications/specifications/2.2/explainer/_attachments/Explainer.pdf (technical standard); NSA/CISA Cybersecurity Information Sheet, *Content Credentials* (Jan 2025): https://media.defense.gov/2025/Jan/29/2003634788/-1/-1/0/CSI-CONTENT-CREDENTIALS.PDF (government guidance)
