@@ -1,8 +1,8 @@
-# Bibliography — *From Data Deluge to Data Strategy, Part 2: Data Strategy*
+# Bibliography: *From Data Deluge to Data Strategy, Part 2: Data Strategy*
 
 Sources grounding the operating playbook. All DOIs resolve via CrossRef/DataCite; none carry a retraction or withdrawal flag. Standards, legal, trade, and company sources are cited with dated URLs and labelled by type.
 
-## Pillar 1 — Standardised identifiers and metadata
+## Pillar 1: Standardised identifiers and metadata
 
 1. International ISRC Registration Authority / IFPI. *International Standard Recording Code (ISRC), ISO 3901* — registration authority and Handbook (4th ed., 2021). https://isrc.ifpi.org/ · https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf (standard)
 2. CISAC — ISWC International Agency. *International Standard Musical Work Code (ISWC), ISO 15707:2001 (rev. 2022)*. https://www.cisac.org/services/information-services/international-identifiers · https://www.iso.org/standard/83125.html · https://iswcnet.cisac.org/ (standard)
@@ -16,7 +16,7 @@ Sources grounding the operating playbook. All DOIs resolve via CrossRef/DataCite
 10. Revelator. *Why metadata matters: the "black box" unmatched-royalty problem and the MLC* (2025). https://revelator.com/blog/why-metadata-matters-boosting-royalties-and-managing-music-rights (trade)
 11. The Independent Music Insider. *Beyond the metadata: the black-box royalty problem — estimate ranges* (2025). https://independentmusicinsider.com/editorial-articles/4820/ (trade)
 
-## Pillar 2 — Attribution and incrementality (correlation to causation)
+## Pillar 2: Attribution and incrementality (correlation to causation)
 
 12. Lewis, R. A. & Rao, J. M. (2015). The unfavorable economics of measuring the returns to advertising. *Quarterly Journal of Economics* 130(4). https://doi.org/10.1093/qje/qjv023
 13. Gordon, B. R., Zettelmeyer, F., Bhargava, N. & Chapsky, D. (2019). A comparison of approaches to advertising measurement: Evidence from big field experiments at Facebook. *Marketing Science* 38(2). https://doi.org/10.1287/mksc.2018.1135
@@ -30,7 +30,7 @@ Sources grounding the operating playbook. All DOIs resolve via CrossRef/DataCite
 21. Chen, A. & Au, T. C. (2022). Robust causal inference for incremental return on ad spend with randomized paired geo experiments. *Annals of Applied Statistics* 16(1). https://doi.org/10.1214/21-aoas1493
 22. Aguiar, L. & Waldfogel, J. (2018). Platforms, promotion, and product discovery: Evidence from Spotify playlists. *NBER working paper 24713*. https://doi.org/10.3386/w24713 (working paper)
 
-## Pillar 3 — The fan graph, first-party data, and direct-to-fan
+## Pillar 3: The fan graph, first-party data, and direct-to-fan
 
 23. Mollick, E. (2014). The dynamics of crowdfunding: An exploratory study. *Journal of Business Venturing* 29(1). https://doi.org/10.1016/j.jbusvent.2013.06.005
 24. Agrawal, A., Catalini, C. & Goldfarb, A. (2014). Some simple economics of crowdfunding. *Innovation Policy and the Economy* 14. https://doi.org/10.1086/674021
@@ -40,7 +40,7 @@ Sources grounding the operating playbook. All DOIs resolve via CrossRef/DataCite
 28. Goldman Sachs (Lisa Yang et al.). *Music in the Air — superfan monetisation opportunity* (2023–2025), reported via Music Business Worldwide. https://www.musicbusinessworldwide.com/emerging-markets-superfans-and-price-rises-7-takeaways-from-goldman-sachs-new-music-in-the-air-report/ (report / trade)
 29. Chartlex / NotNoise. *Direct-to-fan platform economics: Bandcamp, Patreon, Substack* (2026). https://www.chartlex.com/blog/money/bandcamp-vs-patreon-vs-substack-musicians-2026 · https://notnoise.co/blog/patreon-for-musicians (trade)
 
-## Pillar 4 — Privacy-preserving data collaboration and governance
+## Pillar 4: Privacy-preserving data collaboration and governance
 
 30. IAB Tech Lab (2025). *Data Clean Rooms guidance and standards (ADMaP, PAIR)*. https://iabtechlab.com/datacleanrooms/ (standard / industry)
 31. Snowflake (2025). *Data clean rooms explained: PETs for privacy-preserving collaboration*. https://www.snowflake.com/en/blog/data-clean-rooms-privacy-collaboration/ (industry explainer)
@@ -52,7 +52,7 @@ Sources grounding the operating playbook. All DOIs resolve via CrossRef/DataCite
 37. Johnson, G. A. (2022). Economic research on privacy regulation: Lessons from the GDPR and beyond. *NBER working paper 30705*. https://doi.org/10.3386/w30705 (working paper)
 38. European Parliament & Council (2016). *Regulation (EU) 2016/679 (GDPR)*, in force 25 May 2018. https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng (legal / primary)
 
-## Pillar 5 — AI consent, opt-out, and provenance registries
+## Pillar 5: AI consent, opt-out, and provenance registries
 
 39. Flynn, S. et al. (2022). Legal reform to enhance global text and data mining research. *Science* 378(6623). https://doi.org/10.1126/science.add6124
 40. Senftleben, M. (2025). Generative AI, copyright and the AI Act. *Computer Law & Security Review* 56. https://doi.org/10.1016/j.clsr.2025.106107
