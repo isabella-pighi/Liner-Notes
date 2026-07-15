@@ -1,6 +1,6 @@
 # Bibliography — *From Data Deluge to Data Strategy*
 
-Sources grounding and updating the SXSW 2024 talk "From Data Deluge to Data Strategy — Part 1: Data Deluge." All DOIs below resolve via CrossRef/DataCite; none carry a retraction or withdrawal flag. Trade-press, legal, and government sources are cited with dated URLs and labelled by type. Peer-reviewed articles and scholarly books are unlabelled unless the type is not obvious.
+Sources grounding and updating "From Data Deluge to Data Strategy: Get the Power of Insights," presented by Isabella Pighi and Chiara Santoro at [SXSW 2025](https://schedule.sxsw.com/2025/events/PP153768) (Music and Tech track). This is Part 1: Data Deluge. All DOIs below resolve via CrossRef/DataCite; none carry a retraction or withdrawal flag. Trade-press, legal, and government sources are cited with dated URLs and labelled by type. Peer-reviewed articles and scholarly books are unlabelled unless the type is not obvious.
 
 ## A. Datafication and the political economy of streaming
 
