@@ -14,12 +14,14 @@ sense of music numbers in the age of platforms and AI.
   where the numbers come from, why fans do not fit in a funnel, and the four
   families of trouble that make music analytics unreliable.
   References: [bibliography_part1.md](bibliography_part1.md).
+  Figures: [the fandom spiral](figures/fig_fandom_spiral.png) &middot; [limitations to governance](figures/fig_governance.png) &middot; [timeline 2021&ndash;2026](figures/fig_timeline.png) &middot; [rented vs. owned reach](figures/fig_direct_to_fan.png) &middot; [the provability gap](figures/fig_provability.png).
 - **Part 2 — Data Strategy** &nbsp;[[Markdown](data_strategy_paper.md) &middot; [PDF](Part2_Data_Strategy.pdf)]
   The practical playbook: strategy as a stack rather than a dashboard, the
   identifier-and-metadata backbone, causal inference and incrementality, the
   fan graph you own, privacy-preserving data sharing, and governing what AI
   learns from.
   References: [bibliography_part2.md](bibliography_part2.md).
+  Figures: [the strategy stack](figures/fig_strategy_stack.png).
 
 ## Agentic development for data science
 
