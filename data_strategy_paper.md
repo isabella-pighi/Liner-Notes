@@ -1,6 +1,6 @@
 # From Data Deluge to Data Strategy: A Practical Playbook for Music in the Age of AI
 
-*Part 2: Data Strategy. A literature-grounded expansion of the SXSW 2024 talk, and the companion to Part 1 ("The Data Deluge"). Updated to mid-2026.*
+*Part 2: Data Strategy. A literature-grounded expansion of "From Data Deluge to Data Strategy: Get the Power of Insights," presented by Isabella Pighi and Chiara Santoro at [SXSW 2025](https://schedule.sxsw.com/2025/events/PP153768) (Music and Tech track), and the companion to Part 1 ("The Data Deluge"). Updated to mid-2026.*
 
 ---
 
