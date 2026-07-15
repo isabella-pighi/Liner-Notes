@@ -6,8 +6,10 @@ to be read on its own.
 
 ## Music data: from deluge to strategy
 
-A two-part series expanding an SXSW 2024 talk, updated to mid-2026, on making
-sense of music numbers in the age of platforms and AI.
+A two-part series expanding "From Data Deluge to Data Strategy: Get the Power
+of Insights," a talk by Isabella Pighi and Chiara Santoro at
+[SXSW 2025](https://schedule.sxsw.com/2025/events/PP153768), updated to
+mid-2026, on making sense of music numbers in the age of platforms and AI.
 
 - **Part 1 — The Data Deluge** &nbsp;[[Markdown](data_deluge_paper.md) &middot; [PDF](Part1_Data_Deluge.pdf)]
   Why the industry has more data than ever and less certainty: datafication,
@@ -22,6 +24,13 @@ sense of music numbers in the age of platforms and AI.
   learns from.
   References: [bibliography_part2.md](bibliography_part2.md).
   Figures: [the strategy stack](figures/fig_strategy_stack.png).
+
+Four short companion pieces adapt the series for a wider audience, each with a
+Medium version, a Substack version, and a LinkedIn note:
+[the invisible superfan](posts/post1_invisible_superfans.md) &middot;
+[proving a song trained an AI](posts/post2_provability_gap.md) &middot;
+[garbage in, garbage out](posts/post3_garbage_in.md) &middot;
+[a short history of counting music](posts/post4_history_of_counting.md).
 
 ## Agentic development for data science
 
