@@ -128,7 +128,7 @@ There's a legal front to all this, and it matters because it could change what g
 
 When AI generators train on unlicensed recordings, that's garbage in at industrial scale: the model absorbs work it had no right to, and, as I've written elsewhere, nobody can reliably prove after the fact which specific songs went in. The record labels went at this directly. In June 2024 the RIAA sued the two leading music generators, Suno and Udio, for mass infringement.
 
-By late 2025 the majors began settling. Universal settled with Udio in October 2025 and lined up a licensed AI music service for 2026, while staying in court against Suno. Warner settled with both Udio and Suno in November 2025, with licensing deals attached. Sony held out and, as the last major still litigating, is pushing toward a ruling, with a summary-judgment fight in the Massachusetts Suno case expected to test the fair-use question in 2026.
+By late 2025 the majors began settling. Universal settled with Udio in October 2025 and lined up a licensed AI music service for 2026. Warner settled with both Udio and Suno in November 2025, with licensing deals attached. Sony held out and, as the last major still litigating, is pushing toward a ruling, with a summary-judgment fight in the Massachusetts Suno case expected to test the fair-use question in 2026.
 
 Here's why a data person should care. A settlement with a licensing deal turns an untracked scrape into a documented, permissioned input. That's the difference between garbage in and clean in.
 
