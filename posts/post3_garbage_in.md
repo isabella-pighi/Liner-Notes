@@ -60,51 +60,65 @@ Charts and streaming numbers are useful. They are also produced by systems with 
 
 ## Substack version
 
-### The self-fulfilling chart: algorithmic confounding and the limits of music data
+### The self-fulfilling chart: how music data helps make the thing it claims to measure
 
-The premise most people carry, often without noticing, is that a chart or a streaming figure is a measurement: an external reading of an independent reality. I want to dismantle that premise carefully, because the failure mode it hides is subtle and well-studied.
+We treat charts and streaming numbers as a mirror. They tell us what's popular the way a thermometer tells us the temperature: neutral, external, just reading off reality.
 
-### The loop
+They're not a mirror. They're closer to a feedback loop, and I want to take that apart carefully, because the failure mode it hides is subtle, well-studied, and getting worse.
 
-Recommendation systems are trained on user behaviour. But that behaviour is itself shaped by earlier recommendations. So the system learns from data it partly generated, which creates a closed loop between what gets shown and what gets measured as popular.
+Here's the loop in one breath. A song does slightly well, so the recommender shows it to more people, so it does better, so the recommender shows it to even more. The number that was meant to measure popularity is now helping create it. The chart is writing the story it claims to be reporting.
 
-Chaney, Stewart and Engelhardt (2018) named this algorithmic confounding and demonstrated two consequences. First, homogenisation: user behaviour converges as the loop tightens. Second, and less obvious, degraded utility: a recommender trained on confounded data performs worse at its actual task. The loop is self-defeating, not merely inequitable.
+### The loop has a name, and it's worse than unfair
 
-Mansoury and colleagues (2020) provided empirical support in recommendation settings, showing feedback loops amplify popularity bias and reduce the diversity of what is surfaced over time. For a full map of the biases and the proposed mitigations, the survey by Chen and colleagues (2023) is the standard reference, and it reframes this from a vague fairness worry into a defined engineering problem.
+Recommendation systems learn from user behaviour. But that behaviour was itself shaped by earlier recommendations, so the system ends up learning from data it partly generated. That closed circle between what gets shown and what gets measured as popular is the whole problem.
 
-### The long tail, measured in music first
+Chaney, Stewart and Engelhardt named it in 2018: algorithmic confounding. They showed two consequences, and the second is the one that should make platforms nervous. First, homogenisation: everyone's behaviour drifts closer together as the loop tightens.
 
-The structural outcome, a few superstars and a vast tail, was quantified in music before it was theorised generally. Celma and Cano (2008) traced how popularity concentrates in the recommendation network, and Celma's *Music Recommendation and Discovery* (2010) remains the standard treatment of the long-tail problem.
+Second, and far less obvious, degraded utility: a recommender trained on its own confounded output gets worse at the job it was built for. The loop isn't just unfair to smaller artists. It's self-defeating for the platform too.
 
-### The counter-evidence, stated fairly
+Mansoury and colleagues watched the mechanism run in 2020, and found feedback loops amplify popularity bias and steadily shrink the range of things anyone ever gets shown. The window narrows, quietly, over time.
 
-Grounding this honestly means reporting the findings that cut against it. Datta, Knox and Bronnenberg (2018) found that the shift to streaming widened individual-level exploration relative to ownership. And the large Spotify study by Anderson and colleagues (2020), the empirical heart of this argument, compared algorithmic with self-directed listening and found the algorithm increased consumption but was associated with lower diversity.
+If you want the full map of these biases and the fixes people have proposed, the survey by Chen and colleagues (2023) is the standard reference, and its real contribution is turning a vague fairness worry into a defined engineering problem you can actually work on.
 
-The synthesis: the homogenising effect is real and measurable, but it coexists with genuine discovery benefits. It is a tension, not a settled verdict. A responsible reading holds both.
+### Music saw this first
 
-### The four-family taxonomy of limitations
+Here's a detail I like, because it flips the usual order. The structural outcome of all this, a few superstars and an enormous tail of everyone else, was measured in music before it was theorised for recommenders generally.
 
-Beyond the feedback loop, music analytics faces four families of problems. Naming them turns "data quality" from a vague unease into a checklist.
+Celma and Cano traced in 2008 how popularity concentrates inside the recommendation network itself, and Celma's *Music Recommendation and Discovery* (2010) is still the standard treatment of the long-tail problem. The thing the whole field now worries about showed up in the streaming data early.
 
-Fragmentation is the state of the signal: incomplete platform coverage, VPN-masked geography, invisible offline listening, and thin logs (a skip is recorded, its cause is not).
+### The honest complication
 
-Bias is interpretive: cultural and regional nuance is lost, correlation is read as causation, vanity metrics proxy for engagement, and the data-generating population is unrepresentative of the target audience.
+I want to be careful here, because the story isn't one-sided, and pretending it were would be its own kind of garbage out.
 
-Automation and algorithmic influence is the feedback-loop family above, plus the inability to distinguish passive from active listening, mainstream favouritism, and seasonal artefacts.
+Some solid studies point the other way. Datta, Knox and Bronnenberg found in 2018 that moving to streaming actually widened what individual listeners explored, compared with owning music. And the large Spotify study by Anderson and colleagues in 2020, which is really the empirical heart of this argument, compared algorithmic with self-directed listening and found the algorithm increased how much people consumed but was linked to less variety in what they heard.
 
-Lack of standards is the absence of shared definitions: a stream differs across services, data is siloed, measurement windows are short, and every metric is manipulable through playlist gaming, bots, and coordinated campaigns.
+So the synthesis is a tension, not a verdict. The homogenising effect is real and measurable, and it coexists with genuine discovery benefits. The same systems that flatten taste can also hand you something you'd never have found alone. Anyone who tells you it's simple is selling something.
 
-These are not independent; they are better held as a set of demands that any fair normalisation must satisfy. The paper's diagnosis is that every normalisation effort so far has been local and arbitrary, with proprietary indices collapsing a many-sided performance into one debatable score.
+### Four ways the numbers mislead
 
-### Adversarial data: the newest failure mode
+Once you accept the data isn't a clean mirror, it helps to name the specific ways it distorts. Naming them turns "data quality" from a vague unease into a checklist. There are four families.
 
-The feedback loop degrades data as a byproduct. The current frontier is deliberate corruption. In 2024, a musician was charged in the US with using AI-generated tracks and bot farms to fraudulently harvest roughly ten million dollars in streaming royalties.
+Fragmentation is the state of the signal. Not every platform reports every artist, VPNs scramble the geography, offline listening is mostly invisible, and even logged behaviour is thin: a skip gets recorded, the reason for it doesn't.
 
-This matters analytically: when both the content and the consumption signal can be synthesised at scale, raw counts are not merely noisy, they are actively corruptible. Any model built on them inherits an adversarial attack surface.
+Bias is about interpretation. Vanity numbers like followers and likes stand in for engagement they don't measure, correlation gets read as causation, and the crowd generating the data isn't the crowd you care about. TikTok's users skew young and female in ways that don't represent the audience for plenty of genres.
+
+Automation and algorithmic influence is the feedback loop above, plus systems that can't tell passive listening from active, that favour the mainstream, and that throw off spikes with nothing to do with quality.
+
+Lack of standards is the missing shared vocabulary. A "stream" isn't the same event on Spotify as on Apple Music, data sits siloed by platform, measurement windows are short, and every number is open to playlist gaming, bots, and coordinated campaigns.
+
+These aren't independent problems. They're better held as a set of demands that any fair way of normalising music data would have to satisfy at once, which is exactly why nobody has managed it: every normalisation effort so far has been local and arbitrary, with proprietary indices collapsing a many-sided performance into one debatable score.
+
+### And now people are faking the inputs on purpose
+
+Everything above is accidental distortion, a byproduct of how the machinery works. The newest problem is deliberate.
+
+In 2024 a musician was charged in the United States with using AI-generated tracks and armies of bots to stream them, siphoning off around ten million dollars in royalties. He pleaded guilty in 2026. When both the content and the listening can be manufactured at scale, the numbers aren't just noisy. They're corruptible by anyone with a reason to corrupt them, and any model built on raw counts inherits that attack surface whether its authors realise it or not.
 
 ### Why this is actionable, not just cautionary
 
-The practical upshot is a stance toward the numbers. Treat streaming metrics as one noisy, endogenous, manipulable signal, produced by systems with their own incentives and blind spots, rather than as ground truth. That reframing is the bridge to strategy: it is why the sequel to this work argues for causal methods and owned first-party data rather than dashboards of platform counts.
+The practical upshot is a stance toward the numbers. Treat streaming metrics as one noisy, self-referential, manipulable signal, produced by systems with their own incentives and their own blind spots, rather than as ground truth. Read them as a mirror and they'll fool you. Read them as one signal among many, made by machinery you can't fully see, and you'll make better calls.
+
+That reframing is the bridge to strategy. It's exactly why the sequel to this work argues for causal methods and owned, first-party data instead of a dashboard of platform counts.
 
 *Full paper, figures, and complete bibliography: [github.com/isabella-pighi/Liner-Notes](https://github.com/isabella-pighi/Liner-Notes). This post draws on the feedback-loop and limitations sections. This work grew out of a talk, "From Data Deluge to Data Strategy: Get the Power of Insights," that I gave with Chiara Santoro at [SXSW 2025](https://schedule.sxsw.com/2025/events/PP153768).*
 
