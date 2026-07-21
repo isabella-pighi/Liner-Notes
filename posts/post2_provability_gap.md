@@ -122,7 +122,7 @@ Here's where the provability gap meets the real world, and it's worth watching c
 
 The big test cases came from the record labels, not individuals. In June 2024 the RIAA sued the two leading music generators, Suno and Udio, for mass copyright infringement. Then, through late 2025, the majors started peeling off.
 
-Universal settled with Udio in October 2025 and announced a licensed AI music service for 2026, though it kept litigating against Suno. Warner settled with both Udio and Suno in November 2025, signing licensing deals in each case.
+Universal settled with Udio in October 2025 and announced a licensed AI music service for 2026. Warner settled with both Udio and Suno in November 2025, signing licensing deals in each case.
 
 Notice what a settlement does, and does not, do. It resolves permission commercially: the label gets paid and gets a deal, the generator gets to keep operating. It never establishes in court whether or how any specific recording was used.
 
