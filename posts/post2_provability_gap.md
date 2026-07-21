@@ -52,43 +52,69 @@ Which points to the only durable defence. If you cannot prove misuse by inspecti
 
 ## Substack version
 
-### The provability gap: why "was my work used to train this model?" may be unanswerable
+### The provability gap: why "was my work used to train this?" may be unanswerable
 
-The AI-and-copyright debate is usually framed as a legal question. I want to argue that underneath it sits a technical one that is, on today's models, largely unsolved: even if you had every right to know, you often could not prove your work was in a training set.
+Suppose you write songs for a living. A new music-generation model comes out, and something about what it produces feels close to your work. You suspect your catalogue was in its training data, and you decide to do something about it. So you ask the question any lawyer would ask first: can you prove it?
 
-Here is the setup. A songwriter suspects a generative model trained on their catalogue. What evidence could they actually produce? Let me go through the available methods and where each one breaks, because the pattern is what matters.
+For the models being sued right now, the honest answer is that you almost certainly cannot. And here's the part that catches people off guard: it isn't because the law is behind. It's because the thing you want to prove may not be provable at all with the tools we have.
 
-### Membership inference
+The AI-and-copyright fight is usually told as a legal story. I want to make the case that underneath it sits a technical problem that is, on today's models, largely unsolved. So let me walk through the methods a creator could actually reach for, one by one, and show you exactly where each one breaks. The pattern is the whole point.
 
-The direct approach is membership inference: given the model, decide whether one specific example was in its training data. Shokri and colleagues (2017) established that this is feasible against machine-learning models under the right conditions, typically smaller models, or ones that overfit and effectively memorise their training set.
+### The old rule quietly stopped working
 
-Commercial music and language models are the opposite case: huge, trained roughly once over a near-web-scale corpus. Duan and colleagues (2024) tested membership inference directly on large language models and found performance close to chance. The mechanism is intuitive once stated: a single pass over an enormous dataset does not imprint any individual example strongly enough to detect. The very scale that makes these models powerful is what erases the fingerprint.
+There's an old principle in data work: garbage in, garbage out. Bad inputs, bad outputs. It always carried a hidden assumption, which is that you can at least see what went in.
 
-### Extraction and memorisation
+With today's large models, you often can't. The training data is enormous, private, and undocumented, and the model keeps no receipt. So "was my song in there" stops being a question you answer by checking records and becomes a genuinely hard technical puzzle. Everything below is a different attempt to solve that puzzle, and a different way of failing.
 
-A second line of work shows models can be induced to regurgitate training data verbatim, from Carlini and colleagues (2021) on language models to Carlini and colleagues (2023) on image diffusion models. That sounds like it should help, but Carlini and colleagues (2022) quantified it: memorisation concentrates on the small number of examples that appear many times in training. The typical work, present once, is not the kind of thing the model reproduces. So extraction proves misuse for duplicated, high-frequency items and stays silent about everything else.
+### The direct approach, and why scale erases the evidence
 
-### Dataset inference
+The obvious method is called membership inference: given a trained model, decide whether one specific example was in its training set. Shokri and colleagues established in 2017 that you can do this against machine-learning models, but only under favourable conditions, typically smaller models, or ones that overfit and effectively memorise what they were trained on.
 
-Maini and colleagues (2021) proposed dataset inference, resolving ownership at the level of a whole dataset rather than a single record, and extended it to language models in 2024. Statistically this is far stronger, because you aggregate signal across many examples. But it answers a different question: it can help a label with a large catalogue argue that its corpus was used, and it does nothing for an individual asking about one track. The unit of proof is a body of work, not a work.
+Commercial music and language models are the opposite case. They are huge, and they are trained roughly once over a near-web-scale ocean of data. When Duan and colleagues tested membership inference directly on large language models in 2024, they found it barely beats a coin toss.
 
-### Copyright traps and watermarks
+The reason is almost poetic once you say it out loud: a single pass over a vast dataset never imprints any one example strongly enough to leave a fingerprint. The very scale that makes these models powerful is what rubs out the evidence you'd need.
 
-The most reliable method requires acting in advance. Meeus and colleagues (2024) show you can plant "copyright traps", unique markers seeded into your text, so that their later appearance betrays training use. Shi and colleagues (2023) built a detector, Min-K% Prob, for whether text was in a model's pre-training data, but it too yields a statistical signal rather than proof.
+It gets worse when you look closely at how these attacks are tested. In a 2024 systematisation pointedly titled *Membership Inference Attacks on LLMs are Rushing Nowhere*, Meeus and colleagues showed that most of the recent methods are evaluated by picking members and non-members after the model was released, which quietly lets in a distribution shift between the two groups. The attack then scores well not because it detected training, but because members and non-members differ in some other way, like their date or topic. Strip that artefact out and much of the reported success evaporates.
 
-The catch with traps is structural: they only protect material you marked before it was scraped. A back catalogue already on the open web cannot be retrofitted.
+### Making the model confess, and why it usually won't
 
-### The gap
+There's a second angle. You can sometimes induce a model to spit its training data back out word for word, shown for language models by Carlini and colleagues in 2021 and for image generators in 2023. That sounds like it should settle things.
 
-Stack these up and a clean conclusion falls out. Absent access to the model's weights, or a watermark inserted before scraping, a single work's presence in a training set cannot be demonstrated after the fact. The detection methods and the rights-holder's evidentiary need do not meet. That is the provability gap.
+But Carlini and colleagues quantified the catch in 2022: this memorisation clusters on the handful of examples that appeared many times over in training. The typical work, present once, is simply not the kind of thing the model reproduces. So extraction can prove misuse for duplicated, high-frequency material, and stays completely silent about everything else, which is most of everything.
 
-Note the asymmetry this creates. Defendants in the current suits have argued fair use while effectively conceding large-scale ingestion, because the fight is over permission, not over whether the data was used. The individual creator is in a weaker spot: they may not even be able to establish use in the first place.
+### Proving the haystack, not the needle
 
-### The governance implication
+Maini and colleagues took a smarter statistical route in 2021 with what they called dataset inference, extended to language models in 2024. Instead of asking about one record, you aggregate signal across many, which is far more reliable.
 
-If you cannot prove misuse by inspecting the model, the only durable defence moves upstream: rights, provenance, and consent recorded in the data itself, before it reaches any model. Machine-readable licensing, do-not-train signals, and content provenance standards stop being optional once you accept the detection problem has no reliable after-the-fact solution. They become the response to it.
+The problem is it answers a different question than the one our songwriter is asking. It can help a label with a huge catalogue argue that its corpus was used. It does nothing for one person asking about one track. The unit of proof is a body of work, not a work.
 
-The honest caveat: this is a moving research area, and a future method, or a court-ordered look inside a model, could shift what is provable. But betting a creative economy on a breakthrough that has not happened is not a strategy. Attaching rights at the source is.
+Shi and colleagues built a related detector in 2023, Min-K% Prob, for whether a passage was in a model's pre-training data, but it too returns a statistical hint rather than proof.
+
+### The one method that works, if you had a time machine
+
+The most reliable technique needs foresight. Meeus and colleagues showed in 2024 that you can plant "copyright traps", unique markers seeded into your text, so that their later appearance in a model gives the game away.
+
+The catch is structural, not fixable. Traps only protect material you marked before it was scraped. A back catalogue already sitting on the open web can't be retrofitted with a booby trap after the fact. For almost every artist alive, that's the entire problem.
+
+### The gap, stated plainly
+
+Stack these up and a clean, uncomfortable conclusion falls out. Absent access to the model's inner weights, or a watermark you inserted before your work was ever scraped, you cannot demonstrate after the fact that a specific song or lyric trained a model. The detection methods and the rights-holder's evidentiary need simply do not meet.
+
+There's now a formal version of this argument, and it's worth knowing about. Zhang, Das, Kamath and Tramèr (2024), in a paper titled almost exactly like this problem, *Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data*, show the failure is structural, not just practical. To make a convincing training-data proof you'd need to show your attack almost never fires on data the model didn't train on. Establishing that means sampling from the world where your work was absent, which means knowing the exact training set or retraining a foundation model from scratch.
+
+Neither is possible. The proof a court would want cannot be constructed from the outside.
+
+That is the provability gap, and it creates a strange asymmetry. The big defendants in the current suits, the ones facing the RIAA's June 2024 cases against Suno and Udio, have mostly argued fair use while effectively conceding they ingested data at scale. Their fight is over permission, not over whether the data was used. The individual creator is in a weaker spot than that: they may not even be able to establish use in the first place.
+
+And the stakes are not hypothetical. This is the same period in which a fake, AI-cloned Drake and Weeknd track, "Heart on My Sleeve", pulled millions of plays before Universal got it pulled in 2023, and Deezer began reporting that AI-generated tracks had climbed from about 28% of its uploads in September 2025 to roughly 44% by April 2026. The volume of synthetic work with no honest record of what it is, or what it learned from, is not slowing down.
+
+### Why this matters well beyond music
+
+This isn't only a musicians' problem. Every writer, illustrator, and photographer whose work sits online is standing in the same spot. The public conversation treats proving misuse as mainly a courtroom fight. A lot of the time it's a measurement problem first, and the measurement may be impossible.
+
+Which points at the only durable defence. If you can't prove misuse by inspecting the model, the protection has to be attached to the work before it ever reaches one: machine-readable rights, provenance, and consent recorded at the source. Do-not-train signals and content-provenance standards stop being optional the moment you accept the detection problem has no reliable after-the-fact fix. They become the answer to it.
+
+The honest caveat is that this is a moving research area, and a future method, or a court forcing a look inside a model, could shift what's provable. But betting a creative economy on a breakthrough that hasn't happened is not a plan. Attaching rights at the source is.
 
 *Full paper, figures, and complete bibliography: [github.com/isabella-pighi/Liner-Notes](https://github.com/isabella-pighi/Liner-Notes). This post expands the AI and provability sections. This work grew out of a talk, "From Data Deluge to Data Strategy: Get the Power of Insights," that I gave with Chiara Santoro at [SXSW 2025](https://schedule.sxsw.com/2025/events/PP153768).*
 
