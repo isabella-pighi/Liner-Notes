@@ -40,6 +40,14 @@ Put it together and the picture is stark. Unless you have access to the model's 
 
 That is the provability gap. The methods we have do not deliver what a rights-holder would actually need.
 
+### What the lawsuits actually settle
+
+You can watch this play out in the courts right now, and it's telling. The record labels sued the big music generators, Suno and Udio, in 2024. By late 2025 the deals started landing: Universal settled with Udio, Warner settled with both. Sony held out and is still fighting.
+
+But look at what a settlement does. The label gets paid and gets a licensing deal. Nobody ever has to prove in court which songs went into the training set.
+
+The awkward question just gets negotiated around. And that only works if you have a huge catalogue and a legal team, which an individual songwriter does not.
+
 ### Why this matters beyond music
 
 This is not only a musicians' problem. Every writer, illustrator, and photographer whose work sits online is in the same position. The public debate talks as if proving misuse is mostly a legal fight. A lot of the time, it is a measurement problem first, and the measurement may be impossible.
@@ -107,6 +115,24 @@ Neither is possible. The proof a court would want cannot be constructed from the
 That is the provability gap, and it creates a strange asymmetry. The big defendants in the current suits, the ones facing the RIAA's June 2024 cases against Suno and Udio, have mostly argued fair use while effectively conceding they ingested data at scale. Their fight is over permission, not over whether the data was used. The individual creator is in a weaker spot than that: they may not even be able to establish use in the first place.
 
 And the stakes are not hypothetical. This is the same period in which a fake, AI-cloned Drake and Weeknd track, "Heart on My Sleeve", pulled millions of plays before Universal got it pulled in 2023, and Deezer began reporting that AI-generated tracks had climbed from about 28% of its uploads in September 2025 to roughly 44% by April 2026. The volume of synthetic work with no honest record of what it is, or what it learned from, is not slowing down.
+
+### What the courts are quietly deciding for you
+
+Here's where the provability gap meets the real world, and it's worth watching closely.
+
+The big test cases came from the record labels, not individuals. In June 2024 the RIAA sued the two leading music generators, Suno and Udio, for mass copyright infringement. Then, through late 2025, the majors started peeling off.
+
+Universal settled with Udio in October 2025 and announced a licensed AI music service for 2026, though it kept litigating against Suno. Warner settled with both Udio and Suno in November 2025, signing licensing deals in each case.
+
+Notice what a settlement does, and does not, do. It resolves permission commercially: the label gets paid and gets a deal, the generator gets to keep operating. It never establishes in court whether or how any specific recording was used.
+
+The provability question isn't answered, it's stepped around. And the licensing deals quietly assume large-scale use rather than proving it, which is the labels' whole leverage.
+
+That leaves one holdout. Sony Music declined to settle and, as the last major label still in court, is pushing toward a ruling. A summary-judgment fight in the Massachusetts Suno case was heading for a hearing in 2026, and its outcome on the core fair-use question could set the precedent everyone else negotiated around.
+
+So the individual creator is caught in a double bind. The labels have the catalogues and the lawyers to force a settlement without ever proving use. You have neither, and the one method that might have proved your case, inspecting the model, does not work.
+
+Whichever way the Sony ruling lands, it decides the fair-use question, not the can-you-even-tell question. That one stays open.
 
 ### Why this matters well beyond music
 
