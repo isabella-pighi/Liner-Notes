@@ -62,47 +62,65 @@ So next time you see a chart, ask what it is not counting. Usually, it is the be
 
 ## Substack version
 
-### The fandom spiral: why the industry's best signal is the one it can't measure
+### The fandom spiral: the industry's best signal is the one it can't measure
 
-I want to start with a live example, because it makes the abstract point concrete.
+In October 2025, Fred again.. did something the music industry is still arguing about. He didn't announce an album and book a tour to sell it. He made the tour the release.
 
-In late 2025 Fred again.. ran a campaign called USB002: ten shows, ten cities, ten weeks, a new track released with each show, venues revealed only days ahead. He extended it into residencies in New York and London, and the London finale closed with a rare back-to-back set alongside Daft Punk's Thomas Bangalter. The whole thing was coordinated through, and documented for, his own community.
+He called the run USB002: ten shows, ten cities, ten weeks, with a new track dropped alongside each show and the venue revealed only days before. It opened in Glasgow on 3 October, moved through Madrid, Brussels, Lyon, Dublin, Toronto, Chicago and San Francisco, and closed in Mexico City on 12 December before spilling over into residencies in New York and at London's Alexandra Palace in early 2026. The London finale ended with a rare back-to-back set alongside Daft Punk's Thomas Bangalter, his second live appearance in nearly twenty years. The whole thing was announced through, and documented for, Fred's own community.
 
-Now try to measure it. The streams from the released tracks are countable. The rest, the tickets, the community coordination, the in-room experience, the footage handed back to fans, is either logged somewhere proprietary or not logged at all.
+Now try to put a number on it. The streams from the released tracks are countable. Everything else, the tickets, the community coordination, the room, the footage handed back to fans, is either logged somewhere proprietary or not logged at all.
 
-The most valuable part of the campaign is the least measurable part. That is the problem this post is about.
+The most valuable part of the campaign is the least measurable part. That is the problem I want to take apart properly here, because it isn't a quirk of one artist. It's built into how music works, and it quietly bends every chart you read.
 
-### The funnel is the wrong model
+### Why the funnel is the wrong picture
 
-The standard marketing funnel runs reach, consumption, engagement, loyalty, purchase. It assumes a one-directional journey toward a transaction. That assumption holds for consumer goods and breaks for music.
+Marketing people love a funnel. Reach at the top, then consumption, then engagement, then loyalty, with money as the finish line. It works for toothpaste, because your relationship with toothpaste is a one-way transaction. You are not in a toothpaste community.
 
-Jenkins (2006) reframed fans as co-creators whose most valuable output is often creative rather than transactional. If you accept that, the funnel's linear shape is wrong from the start. Real fan behaviour is cyclical: discover, deepen, lapse, return, deepen further. I model it as a spiral, where each loop inward costs the fan more time, attention, and money, and the stages run roughly Discovery, Intentional Consumption, Engagement, Active Support, and VIP or Superfan.
+Music breaks that assumption. Henry Jenkins made the case back in 2006 that fans are co-creators, not end-of-the-line consumers, and that their most valuable output is often something they make rather than something they buy: the edit, the cover, the meme, the fan art. Force that into a funnel and the shape is wrong from the first step.
 
-### The commensurability problem
+Real fans don't move in one direction. They discover an artist, dig in, drift off, come back, and fall deeper each time. It looks less like a funnel and more like a spiral, and the listener travels around it again and again, giving up a bit more time, attention, and money on every pass. Roughly, the loops run Discovery, Intentional Consumption, Engagement, Active Support, and finally the VIP or superfan at the centre.
 
-Here is the load-bearing claim. The stages of the spiral are not commensurable, meaning you cannot put them on one scale and compare them.
+### The one idea everything hangs on
 
-A stream is a royalty-bearing, precisely logged event. Deep engagement, a Discord listening session, a reply to a post, a show attended, is largely non-royalty-bearing and often not logged at all. The deeper you go into the spiral, toward the highest-value fans, the less royalty-bearing and the less measurable the behaviour becomes.
+Here's the load-bearing claim, and it's worth saying slowly. The stages of that spiral can't be put on the same scale.
 
-That inverse relationship is the core measurement problem. The signal quality falls exactly where the value rises.
+A stream is royalty-bearing and logged to the decimal. A late-night listening party on someone's Discord, a reply to an artist's post, a night out at a show: mostly non-royalty-bearing, and often not logged anywhere at all. And the relationship runs the wrong way for anyone hoping to measure it. The deeper you go into the spiral, toward the fans who matter most, the less royalty-bearing and the less measurable the behaviour becomes.
 
-Baym's work on relational labour (2015; *Playing to the Crowd*, 2018) is the grounding here. The connection work musicians do with audiences is genuine labour and the substance of fandom, which is precisely why a paid-play metric under-counts it. This is not a data-cleaning issue you can fix with better pipelines. The valuable events do not generate the kind of record a streaming service produces.
+That inversion is the whole problem in one line. Signal quality collapses exactly where value peaks.
 
-### Owned versus rented reach
+This is not a data-cleaning issue you can fix with a better pipeline. Nancy Baym's work on what she calls relational labour is the grounding here: the ongoing, personal connection an artist keeps up with the people who care most is genuine work, and it's the actual substance of fandom. A metric that counts only paid plays is measuring the wrong thing on purpose.
 
-The practical consequence is a split between two ways of reaching fans.
+And when people have tried to build one catch-all "engagement" score to paper over the gap, it falls apart on contact. Scharlach and Hallinan (2023) showed that a like, a save, and a share mean genuinely different things to the people doing them, so mashing them into a single number destroys the information. Trunfio and Rossi (2021) found "engagement" gets measured inconsistently even in the studies that lean on it hardest.
 
-Rented reach is platform-mediated: TikTok, Spotify, YouTube. Enormous scale, but the platform owns the audience and the data, and that reach can vanish with an algorithm change or a licensing dispute.
+The disciplined move, then, isn't to invent a universal currency. It's to refuse to. Name what each signal is for, keep paid and unpaid interactions in separate columns, and only compare things that are genuinely alike.
 
-Owned reach is direct: Discord, Patreon, Bandcamp, a mailing list. Smaller numbers, but the artist owns the relationship, the data, and revenue that persists regardless of any single platform. SoundCloud's fan-powered royalties, launched in 2021, were an early move in this direction, paying an artist out of what their own listeners spent rather than dividing one pool by total plays.
+### Where the superfans actually live
 
-Fred again..'s Discord-first model is the clearest current example of building on owned reach, and USB002 is what it looks like at scale.
+If the superfan is the prize, where do you find one? Almost never on a streaming service.
 
-### Why it matters for anyone who uses music data
+The deepest fandom has moved to channels an artist can own. Patreon turns the fuzzy idea of "active support" into a monthly number the artist controls and can see.
 
-If you build models, price catalogues, or make signings on streaming metrics, you are optimising on the measurable half of fandom and ignoring the valuable half. The numbers are not wrong, they are incomplete in a specific, predictable direction: they under-weight depth and over-weight reach.
+Discord is where the community itself lives, a private clubhouse where fans talk to each other and, now and then, to the artist. Neither shows up in a stream count. Both sit right in the high-value centre of the spiral.
 
-The honest caveat is that owned-channel data is hard to standardise and easy to overstate, and nobody has a clean way to make a Discord community and a stream count sit in the same table yet. That unsolved problem is exactly why the second half of this work is about strategy rather than measurement.
+Fred again.. built his rise on exactly this. His Discord was the operational hub, not a marketing afterthought.
+
+For the launch of *Actual Life 3* in October 2022 he used it to coordinate eighteen fan-led listening parties around the world the day before the record dropped, and the same community muscle powered the mass bike-ride rave to Marble Arch and the pop-up shows announced with almost no notice, where being in the right server at the right moment was the ticket. USB002 three years later was that same instinct scaled into a whole way of releasing music.
+
+There's a useful contrast worth naming: rented reach versus owned reach. TikTok, Spotify and YouTube give you enormous scale, but the platform owns the audience and the data, and that reach can vanish with an algorithm change or a licensing row. Discord, Patreon, Bandcamp and a mailing list reach fewer people, but the artist owns the relationship, the data, and revenue that survives any single platform. SoundCloud saw this early: its fan-powered royalties, launched in 2021, paid an artist out of what their own listeners actually spent, rather than tipping every play into one pool and dividing it up.
+
+### The industry knows, and is chasing the deep end anyway
+
+The striking thing is that the business has caught up to the diagnosis without solving the measurement. Luminate's research popularised the finding that about 15% of US listeners are superfans who spend well above average. Goldman Sachs put superfan monetisation at the centre of a forecast reaching toward $200bn. From early 2025 Spotify was reported to be preparing a pricier "Music Pro" tier built around exactly these fans.
+
+And then the honest wrinkle: by mid-2026 some trade commentators were already arguing the standalone superfan subscription had over-promised, and the bubble had burst. Which is the point, really. The industry is racing to instrument and monetise the deepest, most valuable ring of the spiral while still having no clean way to measure it.
+
+### Why this should change how you read a chart
+
+If you build models, price catalogues, or make signings on streaming metrics, you're optimising on the measurable half of fandom and ignoring the valuable half. The numbers aren't wrong. They're incomplete in a specific, predictable direction: they under-weight depth and over-weight reach.
+
+The caveat cuts the other way too. Owned-channel data is hard to standardise and easy to overstate, and nobody yet has a clean way to make a Discord community and a stream count sit in the same table. That unsolved problem is exactly why the second half of this work is about strategy rather than measurement.
+
+So next time you see a music chart, ask what it isn't counting. Usually, it's the behaviour that matters most.
 
 *Full paper, with figures and a complete bibliography: [github.com/isabella-pighi/Liner-Notes](https://github.com/isabella-pighi/Liner-Notes). This post draws on the funnel-versus-spiral and direct-to-fan sections. This work grew out of a talk, "From Data Deluge to Data Strategy: Get the Power of Insights," that I gave with Chiara Santoro at [SXSW 2025](https://schedule.sxsw.com/2025/events/PP153768).*
 
