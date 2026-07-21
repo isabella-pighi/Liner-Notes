@@ -50,6 +50,14 @@ The feedback loop was an accidental distortion. The newest problem is deliberate
 
 In 2024 a musician was charged in the United States with using AI to generate thousands of fake songs and armies of bots to stream them, siphoning off around ten million dollars in royalties. When both the content and the listening can be manufactured at scale, the numbers are not just noisy. They are corruptible by anyone with a reason to corrupt them.
 
+### The courts are starting to force the issue
+
+There's a legal angle worth adding, because it could change what feeds the machine in the first place. When AI generators train on unlicensed music, that's garbage in on a massive scale, and, as I've argued elsewhere, nobody can reliably prove which songs went in afterwards.
+
+The labels took this to court. They sued the big generators, Suno and Udio, in 2024. By late 2025 the deals began: Universal settled with Udio, Warner settled with both, and Sony is still fighting.
+
+The interesting part for data quality is what a licensing deal does. It turns an untracked scrape into a documented, permissioned input. If that becomes the norm, keeping proper records of what a model learned from stops being optional. If the courts instead wave it through as fair use, the reason to document anything largely disappears.
+
 ### The takeaway
 
 Charts and streaming numbers are useful. They are also produced by systems with their own incentives, their own blind spots, and now their own attackers. Read them as a mirror and they will fool you. Read them as one noisy signal among many, made by machinery you cannot fully see, and you will make better decisions.
@@ -113,6 +121,18 @@ These aren't independent problems. They're better held as a set of demands that 
 Everything above is accidental distortion, a byproduct of how the machinery works. The newest problem is deliberate.
 
 In 2024 a musician was charged in the United States with using AI-generated tracks and armies of bots to stream them, siphoning off around ten million dollars in royalties. He pleaded guilty in 2026. When both the content and the listening can be manufactured at scale, the numbers aren't just noisy. They're corruptible by anyone with a reason to corrupt them, and any model built on raw counts inherits that attack surface whether its authors realise it or not.
+
+### The courts are starting to force the issue
+
+There's a legal front to all this, and it matters because it could change what goes into the machine in the first place.
+
+When AI generators train on unlicensed recordings, that's garbage in at industrial scale: the model absorbs work it had no right to, and, as I've written elsewhere, nobody can reliably prove after the fact which specific songs went in. The record labels went at this directly. In June 2024 the RIAA sued the two leading music generators, Suno and Udio, for mass infringement.
+
+By late 2025 the majors began settling. Universal settled with Udio in October 2025 and lined up a licensed AI music service for 2026, while staying in court against Suno. Warner settled with both Udio and Suno in November 2025, with licensing deals attached. Sony held out and, as the last major still litigating, is pushing toward a ruling, with a summary-judgment fight in the Massachusetts Suno case expected to test the fair-use question in 2026.
+
+Here's why a data person should care. A settlement with a licensing deal turns an untracked scrape into a documented, permissioned input. That's the difference between garbage in and clean in.
+
+If licensing becomes the norm, provenance and consent metadata stop being optional and become the price of doing business, which is exactly the fix the rest of this argument points to. If instead a court blesses training on unlicensed data as fair use, the incentive to document anything largely evaporates. Either way, the quality of what future models learn from is being decided in these rooms right now.
 
 ### Why this is actionable, not just cautionary
 
