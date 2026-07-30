@@ -46,9 +46,19 @@ Lack of standards is the missing shared vocabulary. A "stream" is not the same e
 
 ### And now people are faking the inputs on purpose
 
-The feedback loop was an accidental distortion. The newest problem is deliberate.
+The feedback loop was an accidental distortion. The newest problem is deliberate, and it has an economy behind it.
 
-In 2024 a musician was charged in the United States with using AI to generate thousands of fake songs and armies of bots to stream them, siphoning off around ten million dollars in royalties. When both the content and the listening can be manufactured at scale, the numbers are not just noisy. They are corruptible by anyone with a reason to corrupt them.
+To see why anyone bothers, you need to know how streaming pays. Almost every big platform uses a pooled model, sometimes called streamshare. All the subscription and advertising money for the month goes into one pot, and each rights-holder gets a slice sized by their share of total streams.
+
+Your payout is not tied to what your fans paid. It is your fraction of everyone's listening.
+
+That design turns a fake stream into theft from a shared pool. Every bot play does two things at once: it earns money for whoever ran it, and it shrinks the slice left for everyone with real listeners. Nobody has to lose a track for a working musician to be quietly underpaid.
+
+The scale is the uncomfortable part. In 2024 a musician was charged in the United States with using AI to generate thousands of songs and armies of bots to stream them, siphoning off around ten million dollars in royalties. That was one person. The fraud-detection firm Beatdapp estimates that at least ten percent of all streams are fake, which it reckons drains somewhere between two and three billion dollars a year from the pool.
+
+Even the cautious numbers sting. A 2023 study in France found only one to three percent of streams there were fake, but scaled worldwide that alone would be up to half a billion dollars in misdirected royalties. Set against the 14.9 billion dollars US streaming earned in 2024, a "small" fraud rate is still a very large sum taken from real artists.
+
+And it is not a local quirk. A man was convicted of streaming fraud in Denmark and jailed for two years; in Brazil, someone allegedly uploaded more than 400 fake tracks and racked up over 28 million plays. When both the songs and the listening can be manufactured cheaply, the numbers stop being merely noisy. They become corruptible by anyone with a reason to corrupt them, and the pooled model quietly rewards them for trying.
 
 ### The courts are starting to force the issue
 
@@ -118,9 +128,21 @@ These aren't independent problems. They're better held as a set of demands that 
 
 ### And now people are faking the inputs on purpose
 
-Everything above is accidental distortion, a byproduct of how the machinery works. The newest problem is deliberate.
+Everything above is accidental distortion, a byproduct of how the machinery works. The newest problem is deliberate, and it pays well enough to have become an industry.
 
-In 2024 a musician was charged in the United States with using AI-generated tracks and armies of bots to stream them, siphoning off around ten million dollars in royalties. He pleaded guilty in 2026. When both the content and the listening can be manufactured at scale, the numbers aren't just noisy. They're corruptible by anyone with a reason to corrupt them, and any model built on raw counts inherits that attack surface whether its authors realise it or not.
+Start with the incentive, because the payout model is what makes fraud rational. Almost every major service runs a pooled, or "streamshare," system: all the subscription and advertising revenue for a period goes into one pot, and each rights-holder is paid according to their share of total streams. Your income is not a function of what your own listeners spent. It is your proportion of everyone's plays.
+
+That structure has a nasty property. A stream is a claim on a fixed pool, not merely a data point that can be faked. So every fraudulent play does double damage: it pays whoever generated it, and it dilutes the per-stream rate for everyone with real audiences.
+
+The fraudster is not inventing new money. They are redistributing a shared pot toward themselves, and the loss is spread thinly enough across honest artists that almost nobody notices their own cut shrinking.
+
+Then look at the volume. In 2024 a musician was charged in the United States with using AI-generated tracks and armies of bots to stream them, siphoning off around ten million dollars in royalties; he pleaded guilty in 2026. That was a single operator. The fraud-detection firm Beatdapp estimates that at least ten percent of all streams are fraudulent, and puts the annual drain on the royalty pool at between two and three billion dollars.
+
+Treat those figures with proper caution, because measuring fraud is itself a measurement problem, and the estimators are not disinterested. A 2023 study in France found a much lower one to three percent of streams were fake. Even that conservative range, scaled globally, would divert up to about 510 million dollars a year, and against the 14.9 billion dollars US recorded-music streaming generated in 2024, a "low" fraud rate is still a fortune skimmed from real rights-holders. The honest position is that the true number is unknown and contested; what is not in doubt is that it is large and structural.
+
+It is also global and prosecutable, not a fringe stunt. A 53-year-old was convicted of streaming fraud in Denmark and sentenced to two years; in Brazil, someone allegedly uploaded more than 400 fake tracks and generated over 28 million plays. Cheap generative audio has lowered the cost of the "product" to almost nothing, so the fake-track-plus-bot-farm playbook now scales in a way it never could when a human had to make the music.
+
+Here is the point for anyone modelling this data. When both the content and the listening can be manufactured at scale, streaming counts are not merely noisy, they are adversarially corrupted, and the pooled payout actively rewards the corruption. Any model built on raw stream counts inherits that attack surface whether its authors realise it or not, and it inherits an incentive structure that guarantees the attacks keep coming.
 
 ### The courts are starting to force the issue
 
