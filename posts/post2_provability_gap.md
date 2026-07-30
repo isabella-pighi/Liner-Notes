@@ -62,6 +62,8 @@ Which points to the only durable defence. If you cannot prove misuse by inspecti
 
 ### The provability gap: why "was my work used to train this?" may be unanswerable
 
+*Every method a musician could use to prove their work trained an AI, and exactly where each one breaks. It turns out to be a measurement problem before it's a legal one.*
+
 Suppose you write songs for a living. A new music-generation model comes out, and something about what it produces feels close to your work. You suspect your catalogue was in its training data, and you decide to do something about it. So you ask the question any lawyer would ask first: can you prove it?
 
 For the models being sued right now, the honest answer is that you almost certainly cannot. And here's the part that catches people off guard: it isn't because the law is behind. It's because the thing you want to prove may not be provable at all with the tools we have.
