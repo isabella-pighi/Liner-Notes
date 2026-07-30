@@ -18,6 +18,10 @@ The number that was supposed to measure popularity is now helping create it. The
 
 ![A four-step clockwise loop: a song does slightly well, the recommender shows it to more people, more people play it, its chart position rises, and the cycle repeats. The measure becomes the cause.](../figures/fig_feedback_loop.png)
 
+You can watch this happen with a real song. "Despacito" was already doing well on streaming in early 2017 before Justin Bieber jumped on the remix. Spotify's own head of Latin culture later said Bieber found the track precisely because it was so popular already. The remix and heavy playlisting then poured fuel on an existing fire, and the song sat at number one on the Billboard Hot 100 for sixteen weeks.
+
+The point is not that "Despacito" was undeserving. It clearly connected with people. The point is that the platforms amplified a signal that was already there, and the amplification reshaped what everyone else heard: Spanish-language songs on the Hot 100 jumped from five in 2016 to nineteen in 2017. The loop does not just pick winners, it widens the gap between what gets pushed and what stays invisible.
+
 ### Why this is more than a nuisance
 
 You might think, fine, the popular gets more popular, that has always been true. But the research shows something sharper and stranger.
@@ -89,6 +93,12 @@ They're not a mirror. They're closer to a feedback loop, and I want to take that
 Here's the loop in one breath. A song does slightly well, so the recommender shows it to more people, so it does better, so the recommender shows it to even more. The number that was meant to measure popularity is now helping create it. The chart is writing the story it claims to be reporting.
 
 ![A four-step clockwise loop: a song does slightly well, the recommender shows it to more people, more people play it, its chart position rises, and the cycle repeats. The measure becomes the cause.](../figures/fig_feedback_loop.png)
+
+It helps to anchor this in a song everyone knows. "Despacito" was already a genuine streaming hit in early 2017 before Justin Bieber joined the remix. According to Spotify's head of Latin culture at the time, Bieber discovered the track because it was already so popular, which is the loop starting from a real signal rather than a fake one. The remix plus aggressive playlist placement amplified that signal hard, and the song spent sixteen weeks at number one on the Billboard Hot 100, the first time two Spanish-language songs sat together in the chart's upper reaches.
+
+I am not calling "Despacito" manufactured. It was popular on its own merits, and that is exactly why it is the honest version of the example: the loop does not need fraud to distort the picture. It amplifies whatever it is fed, and the amplification changes the field.
+
+In 2016 there were five predominantly Spanish-language songs on the Hot 100 across the year; in 2017 there were nineteen. A single amplified hit helped reset which songs the recommendation-and-playlist machinery would carry next, which is the homogenisation effect made visible in real chart data.
 
 ### The loop has a name, and it's worse than unfair
 
