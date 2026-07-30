@@ -39,6 +39,7 @@ Sources grounding and updating "From Data Deluge to Data Strategy: Get the Power
 30. Deldjoo, Y., Jannach, D., Bellogín, A., Difonzo, A. & Zanzonelli, D. (2023). Fairness in recommender systems: research landscape and future directions. *User Modeling and User-Adapted Interaction* 34. https://doi.org/10.1007/s11257-023-09364-z
 31. Porcaro, L., Gómez, E. & Castillo, C. (2024). Assessing the impact of music recommendation diversity on listeners: A longitudinal study. *ACM Transactions on Recommender Systems* 2(1). https://doi.org/10.1145/3608487
 32. Nguyen, C. T. (2018). Echo chambers and epistemic bubbles. *Episteme* 17(2). https://doi.org/10.1017/epi.2018.32
+33. Cobo, L. (2017). Beyond "Despacito": Why Latin's new wave is here to stay. *Billboard*. https://www.billboard.com/music/latin/beyond-despacito-latin-new-wave-here-to-stay-analysis-8022336/ (trade press; worked example for the feedback-loop section: "Despacito" 16 weeks at No. 1 on the Hot 100, first time two Spanish-language songs sat in the chart's upper reaches). Cobo, L. (2018). *How the Latin mainstream crossover happened*, Billboard, https://www.billboard.com/music/latin/latin-mainstream-crossover-how-it-happened-2018-8096420/ ("Despacito" a hit pre-Bieber, then a juggernaut once he joined; 19 predominantly Spanish-language Hot 100 tracks across 2017, up from 5 in 2016).
 
 ## C. Fandom, attention, and the measurement problem
 
