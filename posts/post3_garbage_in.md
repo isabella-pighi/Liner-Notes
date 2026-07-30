@@ -16,6 +16,8 @@ Here is the loop. A song does slightly well, so the recommendation system shows 
 
 The number that was supposed to measure popularity is now helping create it. The chart is writing the story it claims to be reporting.
 
+![A four-step clockwise loop: a song does slightly well, the recommender shows it to more people, more people play it, its chart position rises, and the cycle repeats. The measure becomes the cause.](../figures/fig_feedback_loop.png)
+
 ### Why this is more than a nuisance
 
 You might think, fine, the popular gets more popular, that has always been true. But the research shows something sharper and stranger.
@@ -85,6 +87,8 @@ We treat charts and streaming numbers as a mirror. They tell us what's popular t
 They're not a mirror. They're closer to a feedback loop, and I want to take that apart carefully, because the failure mode it hides is subtle, well-studied, and getting worse.
 
 Here's the loop in one breath. A song does slightly well, so the recommender shows it to more people, so it does better, so the recommender shows it to even more. The number that was meant to measure popularity is now helping create it. The chart is writing the story it claims to be reporting.
+
+![A four-step clockwise loop: a song does slightly well, the recommender shows it to more people, more people play it, its chart position rises, and the cycle repeats. The measure becomes the cause.](../figures/fig_feedback_loop.png)
 
 ### The loop has a name, and it's worse than unfair
 
