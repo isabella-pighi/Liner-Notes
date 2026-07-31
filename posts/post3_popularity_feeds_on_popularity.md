@@ -38,7 +38,7 @@ I want to be careful here, because the story is not one-sided, and pretending it
 
 Some studies point the other way. Datta and colleagues (2018) found that moving to streaming actually widened what individual listeners explored, compared with owning music. And a large Spotify study by Anderson and colleagues (2020) found that algorithmic listening increased how much people consumed but was linked to less variety in what they heard.
 
-So the effect is real and measurable, but it is a tension, not a verdict. The same systems that homogenise can also expose you to things you would never have found alone. Anyone who tells you it is simple is selling something.
+So the effect is real and measurable, but it is a tension, not a verdict. The same systems that homogenise can also expose you to things you would never have found alone. The honest answer is that both are true at once, so treat any tidy, one-way story with suspicion.
 
 ### Four ways the numbers mislead
 
@@ -128,7 +128,7 @@ I want to be careful here, because the story isn't one-sided, and pretending it 
 
 Some solid studies point the other way. Datta, Knox and Bronnenberg found in 2018 that moving to streaming actually widened what individual listeners explored, compared with owning music. And the large Spotify study by Anderson and colleagues in 2020, which is really the empirical heart of this argument, compared algorithmic with self-directed listening and found the algorithm increased how much people consumed but was linked to less variety in what they heard.
 
-So the synthesis is a tension, not a verdict. The homogenising effect is real and measurable, and it coexists with genuine discovery benefits. The same systems that flatten taste can also hand you something you'd never have found alone. Anyone who tells you it's simple is selling something.
+So the synthesis is a tension, not a verdict. The homogenising effect is real and measurable, and it coexists with genuine discovery benefits. The same systems that flatten taste can also hand you something you'd never have found alone. The honest answer is that both are true at once, so treat any tidy, one-way story with suspicion.
 
 ### Four ways the numbers mislead
 
