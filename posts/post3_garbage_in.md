@@ -6,7 +6,9 @@
 
 ## Medium version
 
-### The chart doesn't just measure the hit. It helps make it.
+### Popularity feeds on popularity
+
+*Why music charts are a feedback loop rather than a mirror, how that loop narrows what everyone hears, and how the same machinery gets gamed.*
 
 We treat charts and streaming numbers as a mirror. They tell us what is popular, the way a thermometer tells us the temperature. Neutral, external, just reading off reality.
 
@@ -84,7 +86,9 @@ Charts and streaming numbers are useful. They are also produced by systems with 
 
 ## Substack version
 
-### The self-fulfilling chart: how music data helps make the thing it claims to measure
+### Popularity feeds on popularity
+
+*Why music charts are a feedback loop rather than a mirror, how that loop narrows what everyone hears, and how the same machinery gets gamed.*
 
 We treat charts and streaming numbers as a mirror. They tell us what's popular the way a thermometer tells us the temperature: neutral, external, just reading off reality.
 
@@ -186,6 +190,6 @@ We treat streaming charts like a thermometer. They're actually a feedback loop.
 
 A song does well, so the algorithm pushes it, so it does better, so the algorithm pushes it more. The number meant to measure popularity is helping create it. Researchers call it algorithmic confounding.
 
-New post on how music data fools the people who trust it, from our SXSW 2025 talk.
+New post on how the charts don't just measure popularity, they help create it, from our SXSW 2025 talk.
 
 [Medium] · [Substack] · github.com/isabella-pighi/Liner-Notes
