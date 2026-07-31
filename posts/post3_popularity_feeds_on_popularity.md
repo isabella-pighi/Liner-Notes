@@ -92,7 +92,7 @@ Charts and streaming numbers are useful. They are also produced by systems with 
 
 We treat charts and streaming numbers as a mirror. They tell us what's popular the way a thermometer tells us the temperature: neutral, external, just reading off reality.
 
-They're not a mirror. They're closer to a feedback loop, and I want to take that apart carefully, because the failure mode it hides is subtle, well-studied, and getting worse.
+They're not a mirror. They're closer to a feedback loop, and I want to take that apart carefully, because the way it misleads you is subtle, well-studied, and getting worse.
 
 Here's the loop in one breath. A song does slightly well, so the recommender shows it to more people, so it does better, so the recommender shows it to even more. The number that was meant to measure popularity is now helping create it. The chart is writing the story it claims to be reporting.
 
