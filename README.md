@@ -29,7 +29,7 @@ Four short companion pieces adapt the series for a wider audience, each with a
 Medium version, a Substack version, and a LinkedIn note:
 [the invisible superfan](posts/post1_invisible_superfans.md) &middot;
 [proving a song trained an AI](posts/post2_provability_gap.md) &middot;
-[garbage in, garbage out](posts/post3_garbage_in.md) &middot;
+[popularity feeds on popularity](posts/post3_popularity_feeds_on_popularity.md) &middot;
 [a short history of counting music](posts/post4_history_of_counting.md).
 
 ## Agentic development for data science
