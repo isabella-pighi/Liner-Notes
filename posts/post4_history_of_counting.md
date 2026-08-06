@@ -10,47 +10,41 @@
 
 Every argument about streaming numbers, AI training data, and who owns your listening habits rests on a machine that was built, quietly and over decades, to answer a much smaller question: who should get paid?
 
-That is the whole origin story. The vast surveillance apparatus of modern music, the one that knows what you played at 2am and how many seconds in you skipped, started life as an accounting department. It is worth tracing how it grew, because the shape of the machine explains a lot about why today's numbers behave the way they do.
+That, more or less, is the whole origin story. A vast surveillance apparatus, the one that knows what you played at 2am and how many seconds in you skipped, started life as an accounting department. Worth tracing how it grew, because the shape of the machine explains a lot about why today's numbers behave the way they do.
 
 ### The 1930s: someone starts keeping score
 
-Weekly popularity tracking goes back, in a rough form, to the *Billboard* charts in the 1930s. It was reported estimates and educated guesswork, the industry taking its own temperature and mostly trusting the reading.
-
-For sixty years, that was more or less how it worked. The people who made and sold music also told everyone how well it was selling. You can imagine the room for wishful thinking.
+Weekly popularity tracking goes back, in a rough form, to the *Billboard* charts in the 1930s: reported estimates and educated guesswork, mostly. The industry took its own temperature and trusted the reading, and for sixty years that was more or less how it worked: whoever made and sold the music also told everyone how well it was selling. You can imagine the room for wishful thinking.
 
 ### 1991: the barcode changes everything
 
-The real turning point was 1991, when Nielsen launched SoundScan in the United States and swapped the guesswork for barcode scans at the register.
-
-This is a bigger deal than it sounds. Overnight, the charts became a record of actual transactions rather than the industry's own say-so. Sales you could count replaced sales people claimed. It reset who got to define success, and it is the moment music measurement grew a spine.
+The real turning point came in 1991, when Nielsen launched SoundScan in the United States and swapped the guesswork for barcode scans at the register. Bigger deal than it sounds: overnight, the charts became a record of actual transactions rather than the industry's own say-so, and sales you could count replaced sales people claimed. It reset who got to define success, and it is the moment music measurement finally grew a spine.
 
 ### The internet adds a second thing to count
 
-Then the internet arrived and introduced a new question. It was no longer just what people bought, but what they listened to. And the signals multiplied fast.
+Then the internet arrived and introduced a new question, no longer just what people bought but what they listened to, and the signals multiplied fast.
 
 BigChampagne started reporting the most-shared files on Napster. iTunes landed in 2001, MySpace in 2003, YouTube in 2005, Twitter and Spotify in 2006, and eventually TikTok. Each one turned music into something you navigate through enormous libraries.
 
-Here is the sleight of hand at the centre of the whole story. If you want people to find their way through a hundred million tracks, you have to give them playlists, recommendations, and search. And every one of those tools is also a sensor, quietly writing down what they do. The features that help you listen are the same features that measure you.
-
-That is how the industry ended up with the kind of behavioural analytics that tech companies live on, rather than just sales figures.
+Here is the sleight of hand at the centre of the whole story. If you want people to find their way through a hundred million tracks, you have to give them playlists, recommendations, and search, and every one of those tools is also a sensor, quietly writing down what they do. The features that help you listen are the same features that measure you, which is how the industry ended up running on the kind of behavioural analytics that tech companies live on rather than just sales figures. Nobody sat down and designed a surveillance system; it accreted, one convenience feature at a time, until the by-product became more valuable than the thing it was a by-product of.
 
 ### The industry grows up around the data
 
-As the data got valuable, companies started buying each other to control it. Live Nation swallowed BigChampagne. Pandora bought Next Big Sound.
+As the data got valuable, companies started buying each other to control it.
 
-Apple bought Musicmetric. Nielsen's music division became MRC Data and then Luminate.
+Live Nation swallowed BigChampagne. Pandora bought Next Big Sound. Apple bought Musicmetric, and Nielsen's music division became MRC Data and then Luminate. Around them, a set of independent analytics firms grew up, Chartmetric, Soundcharts, Songstats among them, all competing to turn a scattered mess of signals into something worth paying for.
 
-Around them, a set of independent analytics firms grew up, Chartmetric, Soundcharts, Songstats among them, all competing to turn a scattered mess of signals into something worth paying for.
+Whoever controls the count controls the story.
 
 ### One claim worth handling with care
 
-You will sometimes hear that recorded-music copyright is now worth more than film. It is a striking line, popularised by the music economist Will Page in his book *Tarzan Economics*.
+You will sometimes hear that music is now worth more than film. It traces to the economist Will Page, whose annual *Global Value of Music Copyright* report put music copyright at $45.5bn for 2023, ahead of the $33.2bn global cinema box office that year.
 
-I would treat it as a sharp practitioner's framing rather than a settled fact. Any real dollar-for-dollar comparison would need a primary industry figure to stand behind it. I mention it because it is a good example of how a memorable number travels further than a careful one, which is a theme worth keeping in mind whenever music statistics are quoted at you.
+Handle the line with care, though, because it is a good example of a number that gets flattened in the retelling. That $45.5bn is total copyright value: recorded music, songwriter collections, and publishing combined. Recorded music on its own was about $28.5bn, which is actually below the box office. And it is not a clean like-for-like comparison in the first place. A memorable number travels further than a careful one, which is worth remembering whenever a music statistic is quoted at you.
 
 ### Where it leaves us
 
-The direction of travel is not in doubt. Measuring music has gone from a quiet back-office job about royalties to a front-office business about intelligence.
+Direction of travel is not in doubt. Measuring music has gone from a quiet back-office job about royalties to a front-office business about intelligence.
 
 That shift is the reason all the modern arguments exist. Once listening became the product, everything downstream, the charts, the recommendations, the AI training sets, became a fight over data. Knowing where the machine came from makes those fights much easier to follow.
 
@@ -62,55 +56,49 @@ That shift is the reason all the modern arguments exist. Once listening became t
 
 ### From a back-office chore to a data business: how music learned to count itself
 
-It's easy to argue about streaming metrics and AI training data as if they appeared out of nowhere. They didn't. They're the newest layer on a machine that has been quietly accreting since the 1930s, and the history is genuinely useful, because each layer left a fingerprint on how today's numbers behave.
+It's easy to argue about streaming metrics and AI training data as if they appeared out of nowhere, but they didn't. They're the newest layer on a machine that has been quietly accreting since the 1930s, and the history is genuinely useful, because each layer left a fingerprint on how today's numbers behave.
 
-Here's the whole origin story in one line. The vast surveillance apparatus of modern music, the one that knows what you played at 2am and how many seconds in you skipped, started life as an accounting department trying to answer a small question: who should get paid? Everything else grew on top of that.
+Here's the whole origin story in one line. The vast surveillance apparatus of modern music, the one that knows what you played at 2am and how many seconds in you skipped, started life as an accounting department trying to answer a small question, who should get paid, and everything else, the charts, the playlists, the training sets, grew on top of that original ledger.
 
 ### When the industry marked its own homework (1930s to 1991)
 
-Weekly popularity tracking goes back, in rough form, to *Billboard*'s charts in the 1930s. The method was reported estimates and educated guesswork, the industry taking its own temperature and mostly trusting the reading.
+Weekly popularity tracking goes back, in rough form, to *Billboard*'s charts in the 1930s. Reported estimates and educated guesswork, really: the industry took its own temperature and mostly trusted the reading.
 
-Sit with that for a second, because it's the original sin. The people invested in a record's success were also the source of the numbers describing it. That's an obvious conflict of interest, and the system simply lived with it for sixty years. You can imagine the room for wishful thinking.
+Sit with that for a second, because it's the original sin. Whoever was invested in a record's success also happened to be the source of the numbers describing it, an obvious conflict of interest that the industry simply lived with for sixty years.
+
+You can imagine the room for wishful thinking.
 
 ### The barcode grows a spine (1991)
 
-The real turning point was 1991, when Nielsen launched SoundScan in the United States and swapped the guesswork for barcode scans at the register.
+Then a barcode scanner rewired the whole thing.
 
-This is a bigger deal than it sounds. Overnight, the charts became a record of actual transactions rather than the industry's own say-so. Sales you could count replaced sales people claimed, and the authority to define a hit shifted from a reporting desk to an auditable till receipt. It's the first time music measurement became empirical rather than declarative, and it reset who got to decide what success even meant.
+Nielsen launched SoundScan in the United States and swapped the guesswork for barcode scans at the register. Bigger deal than it sounds: overnight, the charts became a record of actual transactions rather than the industry's own say-so, sales you could count replaced sales people claimed, and the authority to define a hit shifted from a reporting desk to an auditable till receipt. For the first time music measurement was empirical rather than declarative, it reset who got to decide what success even meant, and the effects of that one change still ripple through every chart argument we have today.
 
 ### Listening becomes the thing being counted (2000s onward)
 
-Then the internet arrived and quietly changed the question. It was no longer just what people bought, but what they listened to. And the signals multiplied fast.
+Then the internet arrived and quietly changed the question, no longer just what people bought but what they listened to, and the signals multiplied fast.
 
 BigChampagne started reporting the most-shared files on Napster. Then a rapid sequence: iTunes in 2001, MySpace in 2003, YouTube in 2005, Twitter and Spotify in 2006, and eventually TikTok. Each one turned music into a navigation problem across an enormous library.
 
-Here's the sleight of hand at the centre of the whole story. If you want people to find their way through a hundred million tracks, you have to give them playlists, recommendations, and search. And every one of those tools is also a sensor, quietly writing down what they do. The features that help you listen are the same features that measure you, so the industry ended up running on the kind of behavioural analytics that tech companies live on, rather than plain sales figures.
+Here's the sleight of hand at the centre of the whole story. If you want people to find their way through a hundred million tracks, you have to give them playlists, recommendations, and search, and every one of those tools is also a sensor, quietly writing down what they do, so the features that help you listen turn out to be the same features that measure you, and the industry ends up running on the kind of behavioural analytics that tech companies live on rather than plain sales figures. Nobody designed it that way on purpose; it accreted one convenience at a time until the by-product, the data, quietly became worth more than the listening it was a by-product of.
 
-This is where the critical scholarship earns its place. Eric Drott framed streaming as a form of surveillance in 2018 and developed it fully in *Streaming Music, Streaming Capital* (2024): the listening data isn't exhaust, it's the product being sold. And *Spotify Teardown* (Eriksson and colleagues, 2019) reverse-engineered one platform's counting machine from the outside, which is exactly why it's fair to treat these metrics as black boxes rather than clear windows onto reality.
+This is where the critical scholarship earns its place. Eric Drott framed streaming as a form of surveillance in 2018 and developed it fully in *Streaming Music, Streaming Capital* (2024), where the argument is that the listening data isn't exhaust, it's the product being sold. *Spotify Teardown* (Eriksson and colleagues, 2019) went further and reverse-engineered one platform's counting machine from the outside, which is exactly why it's fair to treat these metrics as black boxes rather than clear windows onto reality.
 
 ### The industry grows up around the data (2010s onward)
 
-As the data became the asset, companies started buying each other to control it.
-
-Live Nation swallowed BigChampagne. Pandora bought Next Big Sound. Apple bought Musicmetric. Nielsen's music arm became MRC Data and then Luminate.
-
-Around them, a set of independent analytics firms grew up, Chartmetric, Soundcharts and Songstats among them, all competing to turn a scattered mess of signals into something worth paying for.
-
-The through-line is simple: whoever controls the count controls the story.
+As the data became the asset, companies started buying each other to control it. Live Nation swallowed BigChampagne, Pandora bought Next Big Sound, Apple bought Musicmetric, and Nielsen's music arm became MRC Data and then Luminate. Around them a set of independent analytics firms grew up, Chartmetric, Soundcharts and Songstats among them, all competing to turn a scattered mess of signals into something worth paying for. Whoever controls the count controls the story.
 
 ### One claim worth handling with care
 
-You'll sometimes hear that recorded-music copyright is now worth more than film. It's a striking line, popularised by the music economist Will Page in his book *Tarzan Economics* (2021).
-
-I'd treat it as a sharp practitioner's framing rather than a settled fact. Any real dollar-for-dollar comparison would need a primary industry figure, from a body like IFPI or Luminate, to stand behind it. I flag it on purpose, because a memorable number travels much further than a careful one, and uncritically repeating it is exactly the data-literacy failure the rest of this work is about.
+You'll sometimes hear that music is now worth more than film. The claim traces to the economist Will Page (former chief economist at Spotify), whose annual *Global Value of Music Copyright* report put the total value of music copyright at $45.5bn for 2023, ahead of the $33.2bn taken at the global cinema box office that year. It is a real finding, but it is exactly the kind of number that gets mangled in the retelling. That $45.5bn is everything combined: recorded music, collective-management-organisation collections, and direct publisher income. Recorded music alone was around $28.5bn, comfortably below the box office, and even the topline is not a strict like-for-like comparison. I flag it on purpose, because a memorable number travels much further than a careful one, and repeating it uncritically is exactly the data-literacy failure the rest of this work is about.
 
 ### Why the history is load-bearing
 
-The direction of travel isn't in doubt: from a back-office royalty function to a front-office intelligence business. And each phase left something behind that still shapes how the numbers misbehave.
+Direction of travel isn't in doubt: a back-office royalty function became a front-office intelligence business, and each phase left something behind that still shapes how the numbers misbehave.
 
 The estimation era left a lingering tolerance for self-reported figures. The transaction era left the assumption that a count equals truth. The behavioural era left us metrics that are really instrumentation, produced by systems with their own incentives. And consolidation left the data concentrated in a handful of black-box providers.
 
-Every current controversy, the meaning of a stream, the fairness of recommendations, the legality of AI training sets, is a dispute over that inherited machine. Once listening became the product, everything downstream became a fight over data. Knowing how the machine was built is the cheapest way to reason about where it breaks.
+Every current controversy, the meaning of a stream, the fairness of recommendations, the legality of AI training sets, is really a dispute over that inherited machine, and once listening itself became the product, everything downstream turned into a fight over data. Knowing how the machine was built, which corner was cut in which decade and why, is the cheapest way to reason about where it breaks next.
 
 *Full paper, figures, and complete bibliography: [github.com/isabella-pighi/Liner-Notes](https://github.com/isabella-pighi/Liner-Notes). This post expands the historical section. This work grew out of a talk, "From Data Deluge to Data Strategy: Get the Power of Insights," that I gave with Chiara Santoro at [SXSW 2025](https://schedule.sxsw.com/2025/events/PP153768).*
 
