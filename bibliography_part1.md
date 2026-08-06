@@ -20,7 +20,7 @@ Sources grounding and updating "From Data Deluge to Data Strategy: Get the Power
 14. Hesmondhalgh, D. (2025). Subjectivity, culture and the datafication of music. *Convergence* (online first). https://doi.org/10.1177/13548565251336465
 15. Maasø, A. & Spilker, H. S. (2022). The streaming paradox: Untangling the hybrid gatekeeping mechanisms of music streaming. *Popular Music and Society* 45(3). https://doi.org/10.1080/03007766.2022.2026923
 16. Eriksson, M., Fleischer, R., Johansson, A., Snickars, P. & Vonderau, P. (2019). *Spotify Teardown: Inside the Black Box of Streaming Music*. MIT Press (book). https://doi.org/10.7551/mitpress/10932.001.0001
-17. Page, W. (2021). *Tarzan Economics: Eight Principles for Pivoting through Disruption*. Simon & Schuster (trade book). https://www.simonandschuster.co.in/books/Tarzan-Economics/Will-Page/9781471190926
+17. Page, W. (2024). *Global Value of Music Copyright* (annual report), covering 2023. Reported via Music Ally (25 Nov 2024), *Music beat cinema in 2023 with $45.5bn global copyright value*, https://musically.com/2024/11/25/music-beat-cinema-in-2023-with-45-5bn-global-copyright-value/ (trade press; total music copyright $45.5bn vs $33.2bn global box office, of which recorded music alone $28.5bn). Used for the "music bigger than film" caveat: the topline is total copyright value, not recorded music, and not a strict like-for-like comparison.
 
 ## B. Recommender bias, popularity, and feedback loops
 
