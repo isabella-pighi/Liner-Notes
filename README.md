@@ -32,6 +32,8 @@ Medium version, a Substack version, and a LinkedIn note:
 [popularity feeds on popularity](posts/post3_popularity_feeds_on_popularity.md) &middot;
 [a short history of counting music](posts/post4_history_of_counting.md).
 
+A running [reading list](reading_list.md) collects further articles, reports, and studies on music data, streaming, fandom, and AI as we gather them.
+
 ## Agentic development for data science
 
 - **Prove it, don't just install it** &nbsp;[[Markdown](METHODOLOGY.md) &middot; [PDF](Prove_it_dont_just_install_it.pdf)]
