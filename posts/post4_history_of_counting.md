@@ -22,7 +22,7 @@ Weekly popularity tracking is older than most people assume. *Billboard* publish
 
 ### 1991: the barcode changes everything
 
-The real turning point came in 1991, when Billboard began building its album chart from SoundScan, a system built by two outsiders, the industry veteran Michael Shalett and the pollster Michael Fine, that swapped the guesswork for barcode scans at the register. (The company was bought later by the group that became Nielsen, which is why the name is usually remembered as Nielsen SoundScan.) Bigger deal than it sounds: the charts became a record of actual transactions rather than the industry's own say-so, and sales you could count replaced sales people claimed. It arrived in stages, the album chart in May 1991 and the Hot 100 that November, and the effect was immediate enough to unsettle everyone who had grown comfortable with the old numbers. It reset who got to define success, and it is the moment music measurement finally grew a spine.
+The real turning point came in 1991, when Billboard began building its album chart from SoundScan, a system built by two outsiders, the industry veteran Michael Shalett and the pollster Michael Fine, that swapped the guesswork for barcode scans at the register. (The company was later absorbed into larger corporate owners, which is why the system is usually remembered as Nielsen SoundScan.) Bigger deal than it sounds: the charts became a record of actual transactions rather than the industry's own say-so, and sales you could count replaced sales people claimed. It arrived in stages, the album chart in May 1991 and the Hot 100 that November, and the effect was immediate enough to unsettle everyone who had grown comfortable with the old numbers. It reset who got to define success, and it is the moment music measurement finally grew a spine.
 
 ### The internet adds a second thing to count
 
@@ -82,7 +82,7 @@ Then a barcode scanner rewired the whole thing.
 
 Billboard started building its album chart from SoundScan, a system created not by the industry or the magazine but by two outsiders, the industry veteran Michael Shalett and the pollster Michael Fine, which swapped the guesswork for barcode scans at the register.
 
-Ownership matters here. SoundScan started as an independent company. It was later bought by the Dutch publisher VNU, which renamed itself The Nielsen Company in 2007, and that is why history remembers the system as Nielsen SoundScan.
+Ownership matters here. SoundScan started as an independent company, outside both the labels and the magazine. It later passed into corporate hands and has since been renamed MRC Data, which is the same lineage that is now Luminate.
 
 Bigger deal than it sounds. Charts became a record of actual transactions rather than the industry's own say-so, sales you could count replaced sales people claimed, and the authority to define a hit shifted from a reporting desk to an auditable till receipt. Adoption was phased rather than instant, with the album chart moving in May 1991 and the Hot 100 following that November. For the first time music measurement was empirical rather than declarative, it reset who got to decide what success even meant, and the effects of that one change still ripple through every chart argument we have today.
 
