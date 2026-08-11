@@ -12,6 +12,10 @@ Every argument about streaming numbers, AI training data, and who owns your list
 
 That, more or less, is the whole origin story. A vast surveillance apparatus, the one that knows what you played at 2am and how many seconds in you skipped, started life as an accounting department. Worth tracing how it grew, because the shape of the machine explains a lot about why today's numbers behave the way they do.
 
+![Three eras of music measurement. The estimation era counted what people said sold; the transaction era counted what scanned at the till; the behavioural era counts what people do. Each shift solved the previous era's blind spot and introduced a new one.](../figures/fig_counting_eras.png)
+
+*Three eras of counting. Each one could finally measure something the era before it could not, and each brought a new blind spot with it.*
+
 ### 1913: someone starts keeping score
 
 Weekly popularity tracking is older than most people assume. *Billboard* published its first chart, a list of best-selling sheet music, back in July 1913, and its first chart based on actual record sales on 4 January 1936. The method, for decades afterwards, was reported estimates and educated guesswork. The industry took its own temperature and trusted the reading, and for more than half a century that was more or less how it worked: whoever made and sold the music also told everyone how well it was selling. You can imagine the room for wishful thinking.
@@ -59,6 +63,10 @@ That shift is the reason all the modern arguments exist. Once listening became t
 It's easy to argue about streaming metrics and AI training data as if they appeared out of nowhere, but they didn't. They're the newest layer on a machine that has been quietly accreting since 1913, and the history is genuinely useful, because each layer left a fingerprint on how today's numbers behave.
 
 Here's the whole origin story in one line. The vast surveillance apparatus of modern music, the one that knows what you played at 2am and how many seconds in you skipped, started life as an accounting department trying to answer a small question, who should get paid, and everything else, the charts, the playlists, the training sets, grew on top of that original ledger.
+
+![Three eras of music measurement. The estimation era counted what people said sold; the transaction era counted what scanned at the till; the behavioural era counts what people do. Each shift solved the previous era's blind spot and introduced a new one.](../figures/fig_counting_eras.png)
+
+*Three eras of counting. Each one could finally measure something the era before it could not, and each brought a new blind spot with it.*
 
 ### When the industry marked its own homework (1913 to 1991)
 
