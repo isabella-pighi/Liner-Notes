@@ -31,6 +31,7 @@ Medium version, a Substack version, and a LinkedIn note:
 [proving a song trained an AI](posts/post2_provability_gap.md) &middot;
 [popularity feeds on popularity](posts/post3_popularity_feeds_on_popularity.md) &middot;
 [a short history of counting music](posts/post4_history_of_counting.md).
+Post figures: [the self-fulfilling loop](figures/fig_feedback_loop.png) &middot; [three eras of counting](figures/fig_counting_eras.png).
 
 A running [reading list](reading_list.md) collects further articles, reports, and studies on music data, streaming, fandom, and AI as we gather them.
 
