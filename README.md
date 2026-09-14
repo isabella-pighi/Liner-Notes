@@ -39,6 +39,8 @@ Three draw on Part 2:
 [attach it beforehand](posts/post7_governing_ai.md).
 Post figures: [the identifier chain](figures/fig_black_box_chain.png) &middot; [incremental vs. total streams](figures/fig_incrementality.png) &middot; [attach before, not detect after](figures/fig_attach_before.png).
 
+Every specific claim in the series has been checked against a source fetched and read in full. Where a published post needed a factual correction as a result, it is recorded in [corrections_posts_1_to_4.md](corrections_posts_1_to_4.md), with the original wording, the replacement, and why it changed.
+
 A running [reading list](reading_list.md) collects further articles, reports, and studies on music data, streaming, fandom, and AI as we gather them.
 
 ## Agentic development for data science
