@@ -124,11 +124,11 @@ This layer's move is unglamorous and it is also the whole foundation: make assig
 
 ## LinkedIn note
 
-One US collecting society has paid out over $4 billion in streaming royalties. It is also sitting on a pool it cannot pay out at all: not stolen, just unmatchable, because the metadata didn't survive the journey.
+Metadata is usually pitched as admin: do the paperwork or the payment goes astray. That framing has been losing budget arguments for twenty years.
 
-And under US law that pool eventually gets shared out by market share, which routes it to the biggest catalogues rather than the people who earned it.
+Three codes carry the system: an ISRC for the recording, an ISWC for the song beneath it, an ISNI for the people. One song maps to many recordings, all tied back to named humans, and that chain is the join key every royalty payment depends on.
 
-Estimates of the yearly total are all over the place, from £500 million in UK streaming to "at most $250 million" in the US. An industry that can't agree on the size of its own unpaid pile.
+The detail that reframes it: MEAD, a DDEX standard, carries lyrics, instrumentation and mood, and DDEX describes its purpose as supporting the marketing of music by streaming services. Built for discovery, not for the royalty department.
 
 New post on the least glamorous layer of music data strategy, and the one everything else sits on, from a talk Chiara Santoro and I gave at SXSW 2025.
 
