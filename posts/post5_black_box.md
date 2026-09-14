@@ -124,8 +124,8 @@ This layer's move is unglamorous and it is also the whole foundation: make assig
 
 ## LinkedIn note
 
-Music royalties depend on three identifiers: an ISRC (ISO 3901) for the recording, an ISWC (ISO 15707) for the composition beneath it, and an ISNI (ISO 27729) for the writers, performers and producers. The international ISRC database now holds over 150 million codes. Where those links are incomplete, a payment cannot be matched to the person who earned it.
+Every music royalty rests on three identifiers: one for the recording, one for the song it contains, one for the people who made it. When any link between them is missing, the payment cannot be matched to a person. That is how unpaid royalties accumulate without fraud or error, and it is also why plays on different services are so hard to compare: without a shared identifier, nothing says they refer to the same recording.
 
-The DDEX standards carry that information through the supply chain. One of them, MEAD, covers lyrics, instrumentation and mood, and DDEX describes its purpose as supporting how streaming services market music, so metadata bears on discovery as well as on royalties. New post on this layer, from a talk Chiara Santoro and I gave at SXSW 2025.
+Metadata is usually treated as compliance, but the standards say otherwise. MEAD, the DDEX standard for descriptive metadata, was written to support how streaming services market music, so the same groundwork that gets people paid also affects whether their music gets found. New post on this layer, from a talk Chiara Santoro and I gave at SXSW 2025.
 
 [Medium](https://medium.com/@isabella.pighi/identifiers-metadata-and-unmatched-royalties-e3c250a5380d?sharedUserId=isabella.pighi) · [Substack](https://isabellapighi.substack.com/p/identifiers-metadata-and-unmatched?r=uzcd4&utm_campaign=post-expanded-share&utm_medium=web) · github.com/isabella-pighi/Liner-Notes
