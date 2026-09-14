@@ -1,4 +1,4 @@
-# Post 5: The identifier layer, and the royalties that go unpaid without it
+# Post 5: Identifiers, metadata, and unmatched royalties
 
 *Angle: the identifier and metadata backbone, and the unclaimed royalties that pile up when it fails. Feeds off section 2 of Part 2. Audience: artists, managers, labels, anyone who has wondered where a royalty went.*
 
