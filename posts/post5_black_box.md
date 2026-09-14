@@ -124,12 +124,12 @@ This layer's move is unglamorous and it is also the whole foundation: make assig
 
 ## LinkedIn note
 
-Metadata is usually pitched as admin: do the paperwork or the payment goes astray. That framing has been losing budget arguments for twenty years.
+Metadata gets pitched as admin: do the paperwork or the payment goes astray. That framing has been losing budget arguments for twenty years.
 
-Three codes carry the system: an ISRC for the recording, an ISWC for the song beneath it, an ISNI for the people. One song maps to many recordings, all tied back to named humans, and that chain is the join key every royalty payment depends on.
+Three codes carry the system: an ISRC for the recording, an ISWC for the song, an ISNI for the people. Break the chain and the payment has nowhere to land.
 
-The detail that reframes it: MEAD, a DDEX standard, carries lyrics, instrumentation and mood, and DDEX describes its purpose as supporting the marketing of music by streaming services. Built for discovery, not for the royalty department.
+MEAD, a DDEX standard, carries lyrics, instrumentation and mood, and DDEX's stated purpose for it is supporting how streaming services market music. Built for discovery, not for the royalty department.
 
-New post on the least glamorous layer of music data strategy, and the one everything else sits on, from a talk Chiara Santoro and I gave at SXSW 2025.
+New post on the least glamorous layer of music data strategy, from a talk Chiara Santoro and I gave at SXSW 2025.
 
 [Medium] · [Substack] · github.com/isabella-pighi/Liner-Notes
