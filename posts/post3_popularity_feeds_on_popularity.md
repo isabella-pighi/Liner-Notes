@@ -18,7 +18,7 @@ Here is the loop. A song does slightly well, so the recommendation system shows 
 
 The number that was supposed to measure popularity is now helping create it. The chart is writing the story it claims to be reporting.
 
-![A four-step clockwise loop: a song does slightly well, the recommender shows it to more people, more people play it, its chart position rises, and the cycle repeats. The measure becomes the cause.](../figures/fig_feedback_loop.png)
+![A four-step clockwise loop: a song does slightly well, the recommender shows it to more people, more people play it, its chart position rises, and the cycle repeats. The measure becomes the cause.](figures/fig_feedback_loop.png)
 
 You can watch this happen with a real song. "Despacito" was already doing well on streaming in early 2017 before Justin Bieber jumped on the remix. Spotify's own head of Latin culture later said Bieber found the track precisely because it was so popular already. The remix and heavy playlisting then poured fuel on an existing fire, and the song sat at number one on the Billboard Hot 100 for sixteen weeks.
 
@@ -62,7 +62,7 @@ Your payout is not tied to what your fans paid. It is your fraction of everyone'
 
 That design turns a fake stream into theft from a shared pool. Every bot play does two things at once: it earns money for whoever ran it, and it shrinks the slice left for everyone with real listeners. Nobody has to lose a track for a working musician to be quietly underpaid.
 
-The scale is the uncomfortable part. In 2024 a musician was charged in the United States with using AI to generate thousands of songs and armies of bots to stream them, siphoning off around ten million dollars in royalties. That was one person. The fraud-detection firm Beatdapp estimates that at least ten percent of all streams are fake, which it reckons drains somewhere between two and three billion dollars a year from the pool.
+The scale is the uncomfortable part. In 2024 a musician was charged in the United States with using AI to generate hundreds of thousands of songs and armies of bots to stream them. He pleaded guilty in March 2026 and agreed to hand back $8,091,843.64, the royalties the scheme had taken. That was one person. The fraud-detection firm Beatdapp estimates that at least ten percent of all streams are fake, which it reckons drains somewhere between two and three billion dollars a year from the pool.
 
 Even the cautious numbers sting. A 2023 study in France found only one to three percent of streams there were fake, but scaled worldwide that alone would be up to half a billion dollars in misdirected royalties. Set against the 14.9 billion dollars US streaming earned in 2024, a "small" fraud rate is still a very large sum taken from real artists.
 
@@ -96,7 +96,7 @@ They're not a mirror. They're closer to a feedback loop, and I want to take that
 
 Here's the loop in one breath. A song does slightly well, so the recommender shows it to more people, so it does better, so the recommender shows it to even more. The number that was meant to measure popularity is now helping create it. The chart is writing the story it claims to be reporting.
 
-![A four-step clockwise loop: a song does slightly well, the recommender shows it to more people, more people play it, its chart position rises, and the cycle repeats. The measure becomes the cause.](../figures/fig_feedback_loop.png)
+![A four-step clockwise loop: a song does slightly well, the recommender shows it to more people, more people play it, its chart position rises, and the cycle repeats. The measure becomes the cause.](figures/fig_feedback_loop.png)
 
 It helps to anchor this in a song everyone knows. "Despacito" was already a genuine streaming hit in early 2017 before Justin Bieber joined the remix. According to Spotify's head of Latin culture at the time, Bieber discovered the track because it was already so popular, which is the loop starting from a real signal rather than a fake one. The remix plus aggressive playlist placement amplified that signal hard, and the song spent sixteen weeks at number one on the Billboard Hot 100, the first time two Spanish-language songs sat together in the chart's upper reaches.
 
@@ -154,7 +154,9 @@ That structure has a nasty property. A stream is a claim on a fixed pool, not me
 
 The fraudster is not inventing new money. They are redistributing a shared pot toward themselves, and the loss is spread thinly enough across honest artists that almost nobody notices their own cut shrinking.
 
-Then look at the volume. In 2024 a musician was charged in the United States with using AI-generated tracks and armies of bots to stream them, siphoning off around ten million dollars in royalties; he pleaded guilty in 2026. That was a single operator. The fraud-detection firm Beatdapp estimates that at least ten percent of all streams are fraudulent, and puts the annual drain on the royalty pool at between two and three billion dollars.
+Then look at the volume. In 2024 a musician was charged in the United States with using AI-generated tracks and armies of bots to stream them.
+
+He pleaded guilty on 19 March 2026 to one count of conspiracy to commit wire fraud, agreeing to forfeit $8,091,843.64, with sentencing set for that July. The ten-million-dollar figure that circulated early on was the indictment's allegation; eight million is what he admitted to taking. That was a single operator. The fraud-detection firm Beatdapp estimates that at least ten percent of all streams are fraudulent, and puts the annual drain on the royalty pool at between two and three billion dollars.
 
 Treat those figures with proper caution, because measuring fraud is itself a measurement problem, and the estimators are not disinterested. A 2023 study in France found a much lower one to three percent of streams were fake. Even that conservative range, scaled globally, would divert up to about 510 million dollars a year, and against the 14.9 billion dollars US recorded-music streaming generated in 2024, a "low" fraud rate is still a fortune skimmed from real rights-holders. The honest position is that the true number is unknown and contested; what is not in doubt is that it is large and structural.
 
