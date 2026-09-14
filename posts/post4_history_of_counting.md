@@ -12,7 +12,7 @@ Every argument about streaming numbers, AI training data, and who owns your list
 
 That, more or less, is the whole origin story. A vast surveillance apparatus, the one that knows what you played at 2am and how many seconds in you skipped, started life as an accounting department. Worth tracing how it grew, because the shape of the machine explains a lot about why today's numbers behave the way they do.
 
-![Three eras of music measurement. The estimation era counted what people said sold; the transaction era counted what scanned at the till; the behavioural era counts what people do. Each shift solved the previous era's blind spot and introduced a new one.](../figures/fig_counting_eras.png)
+![Three eras of music measurement. The estimation era counted what people said sold; the transaction era counted what scanned at the till; the behavioural era counts what people do. Each shift solved the previous era's blind spot and introduced a new one.](figures/fig_counting_eras.png)
 
 *Three eras of counting. Each one could finally measure something the era before it could not, and each brought a new blind spot with it.*
 
@@ -64,7 +64,7 @@ It's easy to argue about streaming metrics and AI training data as if they appea
 
 Here's the whole origin story in one line. The vast surveillance apparatus of modern music, the one that knows what you played at 2am and how many seconds in you skipped, started life as an accounting department trying to answer a small question, who should get paid, and everything else, the charts, the playlists, the training sets, grew on top of that original ledger.
 
-![Three eras of music measurement. The estimation era counted what people said sold; the transaction era counted what scanned at the till; the behavioural era counts what people do. Each shift solved the previous era's blind spot and introduced a new one.](../figures/fig_counting_eras.png)
+![Three eras of music measurement. The estimation era counted what people said sold; the transaction era counted what scanned at the till; the behavioural era counts what people do. Each shift solved the previous era's blind spot and introduced a new one.](figures/fig_counting_eras.png)
 
 *Three eras of counting. Each one could finally measure something the era before it could not, and each brought a new blind spot with it.*
 
