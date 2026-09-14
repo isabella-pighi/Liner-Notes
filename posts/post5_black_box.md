@@ -8,7 +8,7 @@
 
 ### A payment with nowhere to go
 
-Somewhere in the accounts of a collecting society there is a small pile of money that belongs to a musician who will never see it. Not because anyone stole it. Because nobody can work out whose it is.
+Somewhere in the accounts of a collecting society there is a small pile of money that belongs to a musician who will probably never see it, because nobody can work out whose it is.
 
 This is called the black box, and it is the least glamorous problem in music. It is also one of the most expensive.
 
@@ -18,9 +18,9 @@ Nobody argues about the cause.
 
 A piece of music and the data describing it set off down separate roads and never meet, and by the time the money arrives there is no way left to work out who should receive it.
 
-Here is the part that should make you angry, and it is written into US law rather than being anyone's bad behaviour. Under the Music Modernization Act the MLC is congressionally mandated to eventually hand that unmatched pool onward, and it intends to start in 2027 through what it calls the market share distribution process, beginning with 2021 usage. Market share means catalogue size. So money that could not be matched to the artist who earned it gets shared out in proportion to how much everyone else already owns.
+Here is the part worth understanding, and it is written into US law rather than being anyone's decision. Under the Music Modernization Act the MLC is congressionally mandated to eventually hand that unmatched pool onward, and it intends to start in 2027 through what it calls the market share distribution process, beginning with 2021 usage. Market share means catalogue size. So royalties that could not be matched to the writer who earned them are distributed in proportion to what everyone else already holds. Whatever you make of that as policy, it is the designed outcome rather than a loophole, and it is why the matching problem has a deadline attached to it.
 
-How much is stuck this way is genuinely disputed, and I would rather show you the disagreement than pick a number and sound confident. The Ivors Academy in the UK has put it at £500 million a year for streaming alone, while Billboard, looking at the US, estimated it at "at most $250 million", and those two figures are not reconcilable by any arithmetic I can do. The gap between them is itself the story: an industry that cannot agree on the size of its own unpaid pile.
+How much is stuck this way is genuinely disputed, and I would rather show you the disagreement than pick a number and sound confident. The Ivors Academy in the UK has put it at £500 million a year for streaming alone, while Billboard, looking at the US, estimated it at "at most $250 million", and those two figures are not reconcilable by any arithmetic I can do. The gap is worth sitting with. There is no agreed measure of how much goes unpaid, which tells you how hard this is to see from outside the matching process itself.
 
 ### Three codes and a boring truth
 
@@ -30,7 +30,7 @@ Three international codes between them answer the only questions that matter. An
 
 One song, many recordings, all tied back to actual humans. That chain of codes is the join key the entire royalty system runs on, and it is also the answer to the complaint Part 1 spent its whole length making. Comparability across platforms was never going to arrive as a clever scoring formula somebody invents; it arrives when a play on one service and a play on another can be shown to point at the same recording. When they can't, every number you build on top of them is guesswork wearing a decimal point.
 
-A set of standards called DDEX moves those codes through the supply chain, so the identifier travels with the release instead of being re-typed by someone at three in the morning.
+A set of standards called DDEX moves those codes through the supply chain, so the identifier travels with the release instead of being re-entered by hand further down the line.
 
 ![The identifier chain is the join key: one song maps to many recordings, all tied back to named people. Break any link and the royalty has nowhere to land.](figures/fig_black_box_chain.png)
 
@@ -44,7 +44,7 @@ Good metadata is usually sold to artists as compliance: do your admin or you won
 
 In other words the people who designed the standard did not build it for the royalty department. They built it to help the music get found, which is not how anyone has ever pitched a metadata project to an artist.
 
-That turns metadata into a marketing asset rather than a filing chore, which is a far easier argument to win inside a company that has never once wanted to fund it.
+That turns metadata into a marketing asset rather than a filing chore, which is a far easier argument to win in an organisation where compliance spending is the first thing cut.
 
 ### Capture it at the session, not afterwards
 
@@ -64,13 +64,13 @@ If you take one thing from this: treat assigning identifiers and capturing credi
 
 ## Substack version
 
-### The black box: a billion dollars with nowhere to go
+### The black box: the money with nowhere to go
 
-*Nearly a billion dollars sits unclaimed at one US collecting society alone, and the cause has no glamour attached to it at all: nobody can establish which recording, which song, and which person a data point refers to. Here is the layer that fixes it, and why it is a discovery problem as much as an accounting one.*
+*A pool of streaming royalties sits unclaimed at one US collecting society, and the cause has no glamour attached to it at all: nobody can establish which recording, which song, and which person a data point refers to. Here is the layer that fixes it, and why it is a discovery problem as much as an accounting one.*
 
-Start with the number, because it is the thing that makes people sit up.
+Start with the numbers, because they frame what follows.
 
-The US Mechanical Licensing Collective reports over $4 billion in total streaming royalties distributed, having crossed $3 billion at its annual membership meeting in October 2025. It simultaneously holds what it calls unclaimed accrued royalties: money it has received but has not been able to match or distribute, despite its efforts, by the time the statutory minimum holding period expires. Neither fraud nor incompetence explains it: the data describing the music was incomplete, inconsistent, or simply absent by the time it arrived.
+The US Mechanical Licensing Collective reports over $4 billion in total streaming royalties distributed, having crossed $3 billion at its annual membership meeting in October 2025. It simultaneously holds what it calls unclaimed accrued royalties: money it has received but has not been able to match or distribute, despite its efforts, by the time the statutory minimum holding period expires. The explanation is mundane: the data describing the music was incomplete, inconsistent, or simply absent by the time it arrived.
 
 What makes this structural rather than merely annoying is that the money has no route home. It is not waiting for a claim form.
 
@@ -108,7 +108,7 @@ And alongside the closed industry standards there is MusicBrainz, an open encycl
 
 Metadata is normally justified defensively: do the admin, avoid the loss.
 
-That framing has been losing this argument inside companies for twenty years, because defensive spending is the first thing anyone cuts, and a cost centre never wins a budget round against something with revenue attached to it.
+That framing has been losing this argument inside companies for twenty years, because defensive spending is the first thing anyone cuts, and a cost centre rarely wins a budget round against something with revenue attached to it.
 
 Which is why the most useful evidence in this section is commercial rather than accounting. DDEX's own description of what MEAD is for makes the point: the standard exists to carry the sort of information that supports the marketing of music by streaming services, and DDEX expects it to expand as understanding of that grows.
 
