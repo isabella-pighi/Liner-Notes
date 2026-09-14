@@ -4,17 +4,17 @@ Sources grounding the operating playbook. All DOIs resolve via CrossRef/DataCite
 
 ## Pillar 1: Standardised identifiers and metadata
 
-1. International ISRC Registration Authority / IFPI. *International Standard Recording Code (ISRC), ISO 3901* — registration authority and Handbook (4th ed., 2021). https://isrc.ifpi.org/ · https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf (standard)
-2. CISAC — ISWC International Agency. *International Standard Musical Work Code (ISWC), ISO 15707:2001 (rev. 2022)*. https://www.cisac.org/services/information-services/international-identifiers · https://www.iso.org/standard/83125.html · https://iswcnet.cisac.org/ (standard)
-3. ISNI International Agency / ISO TC46/SC9. *International Standard Name Identifier (ISNI), ISO 27729:2012 (rev. 2024)*. https://isni.org/ · https://www.iso.org/standard/87177.html (standard)
+1. International ISRC Registration Authority / IFPI. *International Standard Recording Code (ISRC), ISO 3901*: registration authority and Handbook. https://isrc.ifpi.org/ · https://www.ifpi.org/wp-content/uploads/2021/02/ISRC_Handbook.pdf (standard)
+2. CISAC — ISWC International Agency. *International Standard Musical Work Code (ISWC), ISO 15707*. https://www.cisac.org/services/information-services/international-identifiers · https://www.iso.org/standard/83125.html · https://iswcnet.cisac.org/ (standard)
+3. ISNI International Agency / ISO TC46/SC9. *International Standard Name Identifier (ISNI), ISO 27729*. https://isni.org/ · https://www.iso.org/standard/87177.html (standard)
 4. DDEX. *Electronic Release Notification (ERN) Message Suite* (ERN 4.3.x / 3.8.2). https://ddex.net/standards/electronic-release-notification-message-suite/ · https://kb.ddex.net/ (standard)
-5. DDEX. *Media Enrichment and Description (MEAD) and Party Identification & Enrichment (PIE)* (MEAD launched Oct 2019). https://ddex.net/standards/media-enrichment-and-description/ (standard)
+5. DDEX. *Media Enrichment and Description (MEAD) and Party Identification & Enrichment (PIE)*. https://ddex.net/standards/media-enrichment-and-description/ (standard)
 6. DDEX. *Recording Information Notification (RIN) and Digital Sales Reporting (DSR)*. https://kb.ddex.net/about-ddex-standards/ddex-standards/ (standard)
-7. MetaBrainz Foundation (Robert Kaye). *MusicBrainz open music encyclopedia and MusicBrainz Identifier (MBID)* (2000–; schema v30, 2025). https://musicbrainz.org/ · https://musicbrainz.org/doc/MusicBrainz_Identifier (open data / primary)
+7. MetaBrainz Foundation (Robert Kaye). *MusicBrainz open music encyclopedia and MusicBrainz Identifier (MBID)*. https://musicbrainz.org/ · https://musicbrainz.org/doc/MusicBrainz_Identifier (open data / primary)
 8. The Ivors Academy / Music Rights Awareness Foundation (Björn Ulvaeus). *Credits Due campaign* (2021; analysis via Bird & Bird). https://mediawrites.twobirds.com/post/102j3gw/credits-due-the-music-industrys-new-royalty-and-metadata-campaign (trade / legal)
-9. Sound Credit (Gebre Waddell). *RIN-format credits platform and ISNI Registration Agency* (2020–2023). https://www.soundcredit.com/ · https://en.wikipedia.org/wiki/Sound_Credit (company / trade)
-10. Revelator. *Why metadata matters: the "black box" unmatched-royalty problem and the MLC* (2025). https://revelator.com/blog/why-metadata-matters-boosting-royalties-and-managing-music-rights (trade)
-11. The Independent Music Insider. *Beyond the metadata: the black-box royalty problem — estimate ranges* (2025). https://independentmusicinsider.com/editorial-articles/4820/ (trade)
+9. Sound Credit (Gebre Waddell). *Studio credits platform with ISNI and ISRC identifier generation*. https://www.soundcredit.com/ · https://en.wikipedia.org/wiki/Sound_Credit (company / trade)
+10. The Mechanical Licensing Collective. *Total streaming royalties distributed; unclaimed accrued royalties and the congressionally mandated market share distribution process (Music Modernization Act)*. https://www.themlc.com/ · https://www.themlc.com/unclaimed-accrued-royalties · https://www.themlc.com/news/the-mlc-holds-annual-membership-meeting-highlighting-more-than-3-billion-in-royalties-distributed (primary). Revelator's metadata explainer is a secondary trade source for the same problem and is not relied on for figures: https://revelator.com/blog/why-metadata-matters-boosting-royalties-and-managing-music-rights
+11. The Independent Music Insider. *Beyond the metadata: the black-box royalty problem, with estimate ranges* (2025). https://independentmusicinsider.com/editorial-articles/4820/ (trade)
 
 ## Pillar 2: Attribution and incrementality (correlation to causation)
 
@@ -37,7 +37,7 @@ Sources grounding the operating playbook. All DOIs resolve via CrossRef/DataCite
 25. Hu, M., Li, X. & Shi, M. (2015). Product and pricing decisions in crowdfunding. *Marketing Science* 34(3). https://doi.org/10.1287/mksc.2014.0900
 26. Colombo, M. G., Franzoni, C. & Rossi-Lamastra, C. (2014). Internal social capital and the attraction of early contributions in crowdfunding. *Entrepreneurship Theory & Practice* 39(1). https://doi.org/10.1111/etap.12118
 27. Martin, K. D. & Murphy, P. E. (2020). Consumer privacy and the future of data-based innovation and marketing. *International Journal of Research in Marketing* 37(3). https://doi.org/10.1016/j.ijresmar.2020.03.006
-28. Goldman Sachs (Lisa Yang et al.). *Music in the Air — superfan monetisation opportunity* (2023–2025), reported via Music Business Worldwide. https://www.musicbusinessworldwide.com/emerging-markets-superfans-and-price-rises-7-takeaways-from-goldman-sachs-new-music-in-the-air-report/ (report / trade)
+28. Goldman Sachs (Lisa Yang et al.). *Music in the Air: superfan monetisation opportunity*, reported via Music Business Worldwide. https://www.musicbusinessworldwide.com/emerging-markets-superfans-and-price-rises-7-takeaways-from-goldman-sachs-new-music-in-the-air-report/ (report / trade)
 29. Chartlex / NotNoise. *Direct-to-fan platform economics: Bandcamp, Patreon, Substack* (2026). https://www.chartlex.com/blog/money/bandcamp-vs-patreon-vs-substack-musicians-2026 · https://notnoise.co/blog/patreon-for-musicians (trade)
 
 ## Pillar 4: Privacy-preserving data collaboration and governance
