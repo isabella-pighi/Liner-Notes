@@ -128,4 +128,4 @@ Music royalties depend on three identifiers: an ISRC (ISO 3901) for the recordin
 
 The DDEX standards carry that information through the supply chain. One of them, MEAD, covers lyrics, instrumentation and mood, and DDEX describes its purpose as supporting how streaming services market music, so metadata bears on discovery as well as on royalties. New post on this layer, from a talk Chiara Santoro and I gave at SXSW 2025.
 
-[Medium] · [Substack] · github.com/isabella-pighi/Liner-Notes
+[Medium](https://medium.com/@isabella.pighi/identifiers-metadata-and-unmatched-royalties-e3c250a5380d?sharedUserId=isabella.pighi) · [Substack](https://isabellapighi.substack.com/p/identifiers-metadata-and-unmatched?r=uzcd4&utm_campaign=post-expanded-share&utm_medium=web) · github.com/isabella-pighi/Liner-Notes
