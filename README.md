@@ -34,7 +34,7 @@ Medium version, a Substack version, and a LinkedIn note. Four draw on Part 1:
 Post figures: [the self-fulfilling loop](figures/fig_feedback_loop.png) &middot; [three eras of counting](figures/fig_counting_eras.png).
 
 Three draw on Part 2:
-[inside music's black box](posts/post5_black_box.md) &middot;
+[music's black box problem](posts/post5_black_box.md) &middot;
 [what your attribution report is not telling you](posts/post6_attribution.md) &middot;
 [attach it beforehand](posts/post7_governing_ai.md).
 Post figures: [the identifier chain](figures/fig_black_box_chain.png) &middot; [incremental vs. total streams](figures/fig_incrementality.png) &middot; [attach before, not detect after](figures/fig_attach_before.png).
