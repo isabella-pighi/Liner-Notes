@@ -25,13 +25,19 @@ mid-2026, on making sense of music numbers in the age of platforms and AI.
   References: [bibliography_part2.md](bibliography_part2.md).
   Figures: [the strategy stack](figures/fig_strategy_stack.png).
 
-Four short companion pieces adapt the series for a wider audience, each with a
-Medium version, a Substack version, and a LinkedIn note:
+Seven short companion pieces adapt the series for a wider audience, each with a
+Medium version, a Substack version, and a LinkedIn note. Four draw on Part 1:
 [the invisible superfan](posts/post1_invisible_superfans.md) &middot;
 [proving a song trained an AI](posts/post2_provability_gap.md) &middot;
 [popularity feeds on popularity](posts/post3_popularity_feeds_on_popularity.md) &middot;
 [a short history of counting music](posts/post4_history_of_counting.md).
 Post figures: [the self-fulfilling loop](figures/fig_feedback_loop.png) &middot; [three eras of counting](figures/fig_counting_eras.png).
+
+Three draw on Part 2:
+[money with your name almost on it](posts/post5_black_box.md) &middot;
+[what your attribution report is not telling you](posts/post6_attribution.md) &middot;
+[attach it beforehand](posts/post7_governing_ai.md).
+Post figures: [the identifier chain](figures/fig_black_box_chain.png) &middot; [incremental vs. total streams](figures/fig_incrementality.png) &middot; [attach before, not detect after](figures/fig_attach_before.png).
 
 A running [reading list](reading_list.md) collects further articles, reports, and studies on music data, streaming, fandom, and AI as we gather them.
 
