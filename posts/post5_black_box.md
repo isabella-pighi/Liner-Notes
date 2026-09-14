@@ -6,7 +6,7 @@
 
 ## Medium version
 
-### A payment with nowhere to go
+### Inside music's black box
 
 Somewhere in the accounts of a collecting society there is a small pile of money that belongs to a musician who will probably never see it, because nobody can work out whose it is.
 
@@ -64,7 +64,7 @@ If you take one thing from this: treat assigning identifiers and capturing credi
 
 ## Substack version
 
-### The black box: the money with nowhere to go
+### Music's black box, and the three codes that would close it
 
 *A pool of streaming royalties sits unclaimed at one US collecting society, and the cause has no glamour attached to it at all: nobody can establish which recording, which song, and which person a data point refers to. Here is the layer that fixes it, and why it is a discovery problem as much as an accounting one.*
 
