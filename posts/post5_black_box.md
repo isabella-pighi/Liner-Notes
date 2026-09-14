@@ -32,7 +32,7 @@ One song, many recordings, all tied back to actual humans. That chain of codes i
 
 A set of standards called DDEX moves those codes through the supply chain, so the identifier travels with the release instead of being re-typed by someone at three in the morning.
 
-![The identifier chain is the join key: one song maps to many recordings, all tied back to named people. Break any link and the royalty has nowhere to land.](../figures/fig_black_box_chain.png)
+![The identifier chain is the join key: one song maps to many recordings, all tied back to named people. Break any link and the royalty has nowhere to land.](figures/fig_black_box_chain.png)
 
 *The identifier chain is the join key: one song maps to many recordings, all tied back to named people. Break any link and the royalty has nowhere to land.*
 
@@ -90,7 +90,7 @@ An **ISRC** (ISO 3901) permanently identifies a sound recording or music video, 
 
 Their relationship is the important bit.
 
-![The identifier chain is the join key: one song maps to many recordings, all tied back to named people. Break any link and the royalty has nowhere to land.](../figures/fig_black_box_chain.png)
+![The identifier chain is the join key: one song maps to many recordings, all tied back to named people. Break any link and the royalty has nowhere to land.](figures/fig_black_box_chain.png)
 
 *The identifier chain is the join key: one song maps to many recordings, all tied back to named people. Break any link and the royalty has nowhere to land.*
 
