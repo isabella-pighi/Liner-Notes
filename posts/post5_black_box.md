@@ -124,7 +124,7 @@ This layer's move is unglamorous and it is also the whole foundation: make assig
 
 ## LinkedIn note
 
-Every music royalty rests on three identifiers: one for the recording, one for the song it contains, one for the people who made it. When any link between them is missing, the payment cannot be matched to a person. That is how unpaid royalties accumulate without fraud or error, and it is also why plays on different services are so hard to compare: without a shared identifier, nothing says they refer to the same recording.
+Every music royalty rests on three identifiers: one for the recording, one for the song it contains, one for the people who made it. When any link between them is missing, the payment cannot be matched to a person. That is how unpaid royalties accumulate, and it is also why plays on different services are so hard to compare: without a shared identifier, nothing says they refer to the same recording.
 
 Metadata is usually treated as compliance, but the standards say otherwise. MEAD, the DDEX standard for descriptive metadata, was written to support how streaming services market music, so the same groundwork that gets people paid also affects whether their music gets found. New post on this layer, from a talk Chiara Santoro and I gave at SXSW 2025.
 
