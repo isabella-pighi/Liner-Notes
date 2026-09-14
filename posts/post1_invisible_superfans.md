@@ -110,7 +110,7 @@ There's a useful contrast worth naming: rented reach versus owned reach. TikTok,
 
 ### The industry knows, and is chasing the deep end anyway
 
-The striking thing is that the business has caught up to the diagnosis without solving the measurement. Luminate's research popularised the finding that about 15% of US listeners are superfans who spend well above average. Goldman Sachs put superfan monetisation at the centre of a forecast reaching toward $200bn. From early 2025 Spotify was reported to be preparing a pricier "Music Pro" tier built around exactly these fans.
+The striking thing is that the business has caught up to the diagnosis without solving the measurement. Luminate's research popularised the finding that about 15% of the general population in the US count as superfans, people who spend well above average on music. Note the denominator there: it is the whole population, not just listeners, so among people who actually listen the share is higher still. Goldman Sachs put superfan monetisation at the centre of its growth case, estimating a potential annual revenue uplift of $4.3 billion on 2026 projections, on the assumption that a fifth of paid subscribers are superfans who would spend twice what an average subscriber does. From early 2025 Spotify was reported to be preparing a pricier "Music Pro" tier built around exactly these fans.
 
 And then the honest wrinkle: by mid-2026 some trade commentators were already arguing the standalone superfan subscription had over-promised, and the bubble had burst. Which is the point, really. The industry is racing to instrument and monetise the deepest, most valuable ring of the spiral while still having no clean way to measure it.
 
