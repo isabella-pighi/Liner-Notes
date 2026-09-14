@@ -14,7 +14,7 @@ I left it there deliberately, because the answer isn't a better detective.
 
 If you can't demonstrate misuse by inspecting the model afterwards, then the protection has to be attached to the work *before* it ever reaches one. That's a governance job. And it's the top layer of what a music data strategy actually needs.
 
-![Nothing you do after training answers the question. A machine-readable reservation attached beforehand turns it into one with a record behind it.](../figures/fig_attach_before.png)
+![Nothing you do after training answers the question. A machine-readable reservation attached beforehand turns it into one with a record behind it.](figures/fig_attach_before.png)
 
 *Nothing you do after training answers the question. A machine-readable reservation attached beforehand turns it into one with a record behind it.*
 
@@ -80,7 +80,7 @@ I want to pick that up from the other side.
 
 If misuse cannot be demonstrated by inspecting the model, then the enforceable artefact has to be created *before* training. Not evidence recovered from the model, but a record that predates it: a machine-checkable statement of what was permitted, attached to the work, timestamped and signed.
 
-![Nothing you do after training answers the question. A machine-readable reservation attached beforehand turns it into one with a record behind it.](../figures/fig_attach_before.png)
+![Nothing you do after training answers the question. A machine-readable reservation attached beforehand turns it into one with a record behind it.](figures/fig_attach_before.png)
 
 *Nothing you do after training answers the question. A machine-readable reservation attached beforehand turns it into one with a record behind it.*
 
