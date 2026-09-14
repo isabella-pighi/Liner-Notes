@@ -1,4 +1,4 @@
-# Post 5: There is money with your name almost on it
+# Post 5: The identifier layer, and the royalties that go unpaid without it
 
 *Angle: the identifier and metadata backbone, and the unclaimed royalties that pile up when it fails. Feeds off section 2 of Part 2. Audience: artists, managers, labels, anyone who has wondered where a royalty went.*
 
@@ -120,7 +120,7 @@ I will add the honest caveat. I have seen figures quoted for how much MEAD-enric
 
 Reconstruction after the fact is the failure mode. Once a release is out and the credits weren't captured, you are trying to remember who played bass on a session eighteen months ago, and the answer is distributed across people who have moved on, changed email addresses, or simply forgotten. Which is why the industry's fix is procedural rather than technical. Credits Due, led by Björn Ulvaeus with the Ivors Academy, campaigns for complete credit capture at the point of creation. Tools like Sound Credit are built for that moment, generating ISNI and ISRC identifiers at the point the work is made rather than leaving them to be chased later.
 
-This layer's move is unglamorous and it is also the whole foundation: make assigning identifiers and capturing credits a contractual obligation at the session, not a clean-up task for later. Everything in the rest of Part 2, the fan graph, the causal measurement, the consent registries, assumes this layer already holds. When it doesn't, the layers above are building on sand, and the most visible symptom is a pile of money in an account somewhere with almost, but not quite, your name on it.
+This layer's move is unglamorous and it is also the whole foundation: make assigning identifiers and capturing credits a contractual obligation at the session, not a clean-up task for later. Everything in the rest of Part 2, the fan graph, the causal measurement, the consent registries, assumes this layer already holds. When it doesn't, the layers above are building on sand, and the most visible symptom is a pool of royalties that cannot be matched to the people who earned them.
 
 *Full paper, figures, and complete bibliography: [github.com/isabella-pighi/Liner-Notes](https://github.com/isabella-pighi/Liner-Notes). This post expands the identifier and metadata section of Part 2. This work grew out of a talk, "From Data Deluge to Data Strategy: Get the Power of Insights," that I gave with Chiara Santoro at [SXSW 2025](https://schedule.sxsw.com/2025/events/PP153768).*
 
