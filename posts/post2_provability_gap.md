@@ -28,7 +28,7 @@ The trouble is that those favourable conditions do not describe the models we ca
 
 There are other angles, and each one fails in an instructive way.
 
-You can sometimes make a model spit out training data word for word. But research shows this only happens for the rare examples that appeared many times over, not the typical song buried once in the pile.
+You can sometimes make a model spit out training data word for word. But the research that quantified this found memorisation grows with the size of the model, with how many times an example was duplicated, and with how much context you feed in, and concluded it is more common than people had assumed rather than less. The catch for one songwriter is the duplication part: a track that appeared once is the least likely to come back out, so getting nothing proves nothing.
 
 You can detect whether a whole dataset was used, with far more confidence than any single item. Useful if you are a label with a huge catalogue. Useless if you are one songwriter asking about one song.
 
@@ -90,7 +90,9 @@ It gets worse when you look closely at how these attacks are tested. In a 2024 s
 
 There's a second angle. You can sometimes induce a model to spit its training data back out word for word, shown for language models by Carlini and colleagues in 2021 and for image generators in 2023. That sounds like it should settle things.
 
-But Carlini and colleagues quantified the catch in 2022: this memorisation clusters on the handful of examples that appeared many times over in training. The typical work, present once, is simply not the kind of thing the model reproduces. So extraction can prove misuse for duplicated, high-frequency material, and stays completely silent about everything else, which is most of everything.
+Carlini and colleagues quantified it in 2022, and the finding cuts against the comforting reading. Memorisation grows on three axes at once: the bigger the model, the more times an example was duplicated in training, and the more context you use to prompt it. Their conclusion was that memorisation is more prevalent than people had believed, and will get worse as models scale.
+
+So extraction is a real phenomenon, not a curiosity. The catch for any one songwriter is that middle axis. Because memorisation leans so heavily on duplication, the track that appeared once in an enormous corpus is the least likely thing to come back out word for word. Extraction can therefore demonstrate misuse for heavily duplicated material, and its silence about everything else proves nothing at all.
 
 ### Proving the haystack, not the needle
 
@@ -116,7 +118,7 @@ Neither is possible. The proof a court would want cannot be constructed from the
 
 That is the provability gap, and it creates a strange asymmetry. The big defendants in the current suits, the ones facing the RIAA's June 2024 cases against Suno and Udio, have mostly argued fair use while effectively conceding they ingested data at scale. Their fight is over permission, not over whether the data was used. The individual creator is in a weaker spot than that: they may not even be able to establish use in the first place.
 
-And the stakes are not hypothetical. This is the same period in which a fake, AI-cloned Drake and Weeknd track, "Heart on My Sleeve", pulled millions of plays before Universal got it pulled in 2023, and Deezer began reporting that AI-generated tracks had climbed from about 28% of its uploads in September 2025 to roughly 44% by April 2026. The volume of synthetic work with no honest record of what it is, or what it learned from, is not slowing down.
+And the stakes are not hypothetical. This is the same period in which a fake, AI-cloned Drake and Weeknd track, "Heart on My Sleeve", spread far enough in 2023 to alarm the industry before Universal was identified as the source of the takedown notices, and Deezer began publishing the only running count anyone has: fully AI-generated tracks went from about 28% of its uploads in September 2025 to 44% by April 2026, and passed half in June 2026 at roughly 90,000 a day. One figure keeps that in proportion, though. Deezer says this music is still only 1% to 3% of its total streams, and that up to 85% of those streams look fraudulent. The volume of synthetic work with no honest record of what it is, or what it learned from, is not slowing down.
 
 ### What the courts are quietly deciding for you
 
