@@ -14,7 +14,7 @@ That arrow is the most expensive assumption in music marketing.
 
 Some of those streams were caused by the placement. Some came from fans who were going to play the song that week regardless, and who happened to find it through the playlist rather than through their own library. In the data those two groups are indistinguishable: both are streams, both arrived after the placement, and only one of them is a result you can claim.
 
-![Attribution credits the whole column of streams that follows a campaign. Only the band on top was caused by it, and that band can be zero.](../figures/fig_incrementality.png)
+![Attribution credits the whole column of streams that follows a campaign. Only the band on top was caused by it, and that band can be zero.](figures/fig_incrementality.png)
 
 *Attribution credits the whole column of streams that follows a campaign. Only the band on top was caused by it, and that band can be zero.*
 
@@ -72,7 +72,7 @@ Part 1 of this series described a failure mode: reading a streaming spike that c
 
 Resolution is not the problem.
 
-![Attribution credits the whole column of streams that follows a campaign. Only the band on top was caused by it, and that band can be zero.](../figures/fig_incrementality.png)
+![Attribution credits the whole column of streams that follows a campaign. Only the band on top was caused by it, and that band can be zero.](figures/fig_incrementality.png)
 
 *Attribution credits the whole column of streams that follows a campaign. Only the band on top was caused by it, and that band can be zero.*
 
