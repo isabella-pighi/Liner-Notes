@@ -124,12 +124,8 @@ This layer's move is unglamorous and it is also the whole foundation: make assig
 
 ## LinkedIn note
 
-Metadata gets pitched as admin: do the paperwork or the payment goes astray. That framing has been losing budget arguments for twenty years.
+Music royalties depend on three identifiers: an ISRC (ISO 3901) for the recording, an ISWC (ISO 15707) for the composition beneath it, and an ISNI (ISO 27729) for the writers, performers and producers. The international ISRC database now holds over 150 million codes. Where those links are incomplete, a payment cannot be matched to the person who earned it.
 
-Three codes carry the system: an ISRC for the recording, an ISWC for the song, an ISNI for the people. Break the chain and the payment has nowhere to land.
-
-MEAD, a DDEX standard, carries lyrics, instrumentation and mood, and DDEX's stated purpose for it is supporting how streaming services market music. Built for discovery, not for the royalty department.
-
-New post on the least glamorous layer of music data strategy, from a talk Chiara Santoro and I gave at SXSW 2025.
+The DDEX standards carry that information through the supply chain. One of them, MEAD, covers lyrics, instrumentation and mood, and DDEX describes its purpose as supporting how streaming services market music, so metadata bears on discovery as well as on royalties. New post on this layer, from a talk Chiara Santoro and I gave at SXSW 2025.
 
 [Medium] · [Substack] · github.com/isabella-pighi/Liner-Notes
